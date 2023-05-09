@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\PipeBuild.bundle.scp.css"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\bootstrap_custom.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap_custom.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\bootstrap_custom.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap_custom.css.map"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -2135,6 +2143,10 @@
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\rev-slider\\revolution\\php\\youtube\\class-youtube.php",
       "PackagePath": "staticwebassets\\lib\\rev-slider\\revolution\\php\\youtube\\class-youtube.php"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\scss\\custom.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\custom.scss"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Plumb-01.jpg",

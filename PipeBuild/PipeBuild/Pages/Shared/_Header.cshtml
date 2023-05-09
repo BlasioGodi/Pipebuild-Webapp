@@ -1,46 +1,47 @@
 ﻿<!--Header Section-->
-<nav class="navbar navbar-expand-lg bg-body-tertiary">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#">Navbar</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+<nav class="navbar navbar-expand-lg sticky-top shadow bg-body-tertiary text-bg-light nav-bar-abs" id="nav-bg">
+    <div class="container">
+        <a class="navbar-brand" asp-area="" asp-page="/Index">
+            <img src="" alt="PipeBuild Logo"
+                 class="d-inline-block align-text-center mx-2" /><strong class="collapse collapse-horizontal">PipeBuild</strong>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasPipebuild"
+                aria-controls="offcanvasPipebuild" aria-label="Toggle navigation">
+            <i class="fa fa-bars"></i>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNavDropdown">
-            <ul class="navbar-nav">
+
+        <div class="collapse navbar-collapse justify-content-end" id="navbarText">
+            <ul class="navbar-nav mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    <a class="nav-link active" aria-current="page" asp-area="" asp-page="/Index">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Features</a>
+                    <a class="nav-link" aria-current="page" asp-area="" asp-page="/About">About Us</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Pricing</a>
+                    <a class="nav-link" aria-current="page" asp-area="" asp-page="/Services">Our Services</a>
                 </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Dropdown link
-                    </a>
-                    <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
-                    </ul>
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page" asp-area="" asp-page="/Projects">Our Projects</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page" asp-area="" asp-page="/Contact">Contact Us</a>
                 </li>
             </ul>
         </div>
     </div>
 </nav>
 
-    <div class="offcanvas offcanvas-start text-bg-dark" tabindex="-1" id="offcanvasPipebuild"
+    <div class="offcanvas offcanvas-start text-bg-light" tabindex="-1" id="offcanvasPipebuild"
          aria-labelledby="offcanvasPipebuildLabel">
         <div class="offcanvas-header">
             <h5 class="offcanvas-title" id="offcanvasPipebuildLabel">
                 <a class="navbar-brand" href="index.html">
-                    <img src="src/logos/XAU-32x32.webp" alt="Xauman Logo"
-                         class="d-inline-block align-text-center mx-2" /><strong class="text-color-red">XAU</strong><strong class="text-color-blue">man</strong>
+                    <img src="src/logos/XAU-32x32.webp" alt="PipeBuild Logo"
+                         class="d-inline-block align-text-center mx-2" /><strong>PipeBuild</strong>
                 </a>
             </h5>
-            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
         </div>
         <div class="offcanvas-body">
             <ul class="navbar-nav justify-content-center me-auto mb-2 mb-lg-0">
