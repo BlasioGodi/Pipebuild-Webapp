@@ -1,18 +1,313 @@
-html {
-  font-size: 14px;
+/* ------------------------------------------------------------------------------
+
+  Template Name: Xauman.com 
+  Description: Xauman.com - Financial Trading Learning Center - Template
+  Author: Godfrey Muhinda Blasio
+  Version: 1.0
+  
+  1.  Global
+
+      1.1 General
+      1.2 Typography
+      1.3 Fields
+      1.4 Buttons
+      1.5 Icons
+      1.6 Loader
+      1.7 Social Media
+      1.8 Content Styles
+      1.9 Main Carousel
+
+  2.  Header 
+
+      2.1 Brand
+      2.2 Vertical Panel
+      2.3 Navbar Desctop
+      2.4 Navbar Desctop Affix
+      2.5 Navbar Mobile
+      2.6 Navbar Mobile Affix
+      
+
+  3.  Main
+
+      3.1 Slider
+
+  4.  About
+
+      4.1 Services
+      4.1 Object map
+
+  5.  Projects
+
+      5.1 Project Carousel
+      5.2 Magnific popup
+      5.3 Project Details
+
+  6.  Experience
+  7.  Clients
+  8   Blog
+      8.1 Blog Details
+      8.2 Widgets
+      8.3 Widget Recent Post
+
+  9.  Contacts
+      9.1 Styling
+      9.2 Forms
+  10. Footer
+      10.1 Styling
+      10.2 Drop-down Settings
+      
+  11. Responsive styles
+
+      11.1 Min width: 768px
+      11.2 Min width 992px
+      11.3 Min width 1200px 
+      11.4 Max height 480px
+/*-------------------------------------------------------------------------------
+  1. Global
+-------------------------------------------------------------------------------*/
+
+/* 1.1 General */
+
+@import url("../lib/node_modules/font-awesome/css/font-awesome.css");
+@import url("https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600&family=Playfair+Display:ital@0;1&display=swap");
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+::-webkit-scrollbar-thumb {
+    cursor: pointer;
+    background: var(--theme-color);
 }
 
-html {
-  position: relative;
-  min-height: 100%;
+::selection {
+    background-color: #100c72;
+    color: #fff;
 }
 
-body {
-  margin-bottom: 60px;
+-webkit-::selection {
+    background-color: var(--theme-color);
+    color: #fff;
+}
+
+::-moz-selection {
+    background-color: var(--theme-color);
+    color: #fff;
+}
+
+/* 1.2 Typography */
+
+:root {
+    --font-family: "Playfair Display", serif;
+    --bs-title-font-family: "Alkatra", cursive;
+    --text-color-red: red;
+    --text-color-blue: #1da1f2;
+    --theme-color: gold;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color:black;
+    border-bottom: none;
+    text-decoration: none;
+}
+
+    a:hover {
+        transition: all 0.17s ease-in-out;
+        -moz-transition: all 0.17s ease-in-out;
+        -webkit-transition: all 0.17s ease-in-out;
+        -o-transition: all 0.17s ease-in-out;
+    }
+
+input::placeholder {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+/* 1.7 Social Media */
+
+.social-title {
+    font-family: var(--bs-title-font-family);
+    font-size: 1.2em;
+}
+
+.social-list {
+    margin-bottom: 0.5vmin;
+}
+
+    .social-list li {
+        margin-top: 0.5vmin;
+        display: inline-block;
+    }
+
+    .social-list.vertical li {
+        display: block;
+    }
+
+    .social-list .bi,
+    .social-list .fa {
+        color: #606060;
+        font-size: 1.5em;
+        width: 1.5em;
+        height: 1.2em;
+        line-height: 1.2em;
+        transition: all 0.17s ease-in-out;
+        -moz-transition: all 0.17s ease-in-out;
+        -webkit-transition: all 0.17s ease-in-out;
+        -o-transition: all 0.17s ease-in-out;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -o-border-radius: 50%;
+    }
+
+.social-list-facebook:hover,
+.social-list-facebook .fa:hover {
+    color: #4267b2;
+    text-decoration: none;
+}
+
+.social-list-whatsapp:hover,
+.social-list-whatsapp .fa:hover {
+    color: #25d366;
+    text-decoration: none;
+}
+
+.social-list-twitter:hover,
+.social-list-twitter .fa:hover {
+    color: #1da1f2;
+    text-decoration: none;
+}
+
+.social-list-instagram:hover,
+.social-list-instagram .fa:hover {
+    color: #fcaf45;
+    text-decoration: none;
+}
+
+.social-list-linkedin:hover,
+.social-list-linkedin .fa:hover {
+    color: #0077b5;
+    text-decoration: none;
+}
+
+.social-list-pinterest:hover,
+.social-list-pinterest .fa:hover {
+    color: #e60023;
+    text-decoration: none;
+}
+
+.social-list-telegram:hover,
+.social-list-telegram .fa:hover {
+    color: #229ed9;
+    text-decoration: none;
+}
+
+.social-list-tiktok a:hover,
+.bi:hover {
+    color: #ee1d52;
+    text-decoration: none;
+}
+
+/*-------------------------------------------------------------------------------
+  10. Footer
+-------------------------------------------------------------------------------*/
+
+/* 10.1 Styling */
+
+.footer {
+    font-family: var(--font-family);
+    font-size: 0.8rem;
+}
+
+.footer-priv {
+    text-transform: uppercase;
+    font-family: var(--bs-title-font-family);
+}
+
+.gutter {
+    min-height: 20px;
+}
+
+.list-title {
+    font-family: var(--bs-title-font-family);
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer .col-footer {
+    line-height: 1.25rem;
+    border-bottom: 1px solid rgba(146, 157, 170, 0.22);
+}
+
+    footer .col-footer .title i {
+        transition: transform 0.4s;
+        font-size: 8px;
+    }
+
+@media (min-width: 575px) {
+    footer .col-footer {
+        border: none;
+    }
+
+    #btn-close-1,
+    #btn-close-2,
+    #btn-close-3,
+    #btn-close-4 {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    #btn-close-1,
+    #btn-close-2,
+    #btn-close-3,
+    #btn-close-4 {
+        display: block;
+    }
+}
+
+/* 10.2 Drop-down Settings */
+footer .btn-close {
+    transform: rotate(45deg) scale(0.75);
+    transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+}
+
+footer .btn-close-dark{
+    color:black;
+    outline:none;
+}
+
+    footer .btn-close:focus,
+    footer .btn-close-dark:focus {
+        outline: none;
+        box-shadow: none;
+    }
+
+footer .btn-click {
+    transform: rotate(90deg) scale(0.75);
+}
+
+footer .d-md-block.collapse.show:focus {
+    transform: rotate(90deg) scale(0.75);
+}
+
+footer .btn-close:hover,
+footer .btn-close-dark:hover {
+    outline: none;
+    color: #dbd7e0;
 }
