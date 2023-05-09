@@ -36,10 +36,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600&family=Playfair+Display:ital@0;1&display=swap"
           rel="stylesheet" />
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <link rel="stylesheet" href="~/css/bootstrap_custom.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/PipeBuild.styles.css" asp-append-version="true" />
-    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 
     <!-- Revolution Style Sheets -->
     <link rel="stylesheet" type="text/css" href="~/lib/rev-slider/revolution/css/settings.css">
@@ -51,16 +51,15 @@
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar" data-offset="100">
     @await Html.PartialAsync("_Header")
-    <div class="container">
-        <main role="main" class="pb-3">
+    <div class="layout">
+        <main role="main">
             @RenderBody()
         </main>
     </div>
     @await Html.PartialAsync("_Footer")
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    @*<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>*@
+    <script src="~/lib/node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
 
     <!-- Load JQUERY library -->
