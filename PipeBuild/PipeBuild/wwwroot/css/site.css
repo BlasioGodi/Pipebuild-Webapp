@@ -133,6 +133,8 @@ label {
     color: white;
 }
 
+
+
 /* 1.7 Social Media */
 
 .social-title {
@@ -216,6 +218,89 @@ label {
 .bi:hover {
     color: #ee1d52;
     text-decoration: none;
+}
+
+/* 2.1 Brand & Navbar */
+
+navbar {
+    padding: 0px !important;
+    -webkit-box-shadow: 4px 9px 25px -6px rgba(77,77,77,0.61);
+    -moz-box-shadow: 4px 9px 25px -6px rgba(77,77,77,0.61);
+    box-shadow: 4px 9px 25px -6px rgba(77,77,77,0.61);
+    background:none;
+}
+
+ul.dropdown-menu {
+    width: 11vw;
+    border-radius: 0px;
+    font-weight: 400;
+    font-size: 0.9em;
+    line-height: 16px;
+    text-decoration: none;
+    padding: 0px;
+    list-style-type: none;
+    -webkit-animation: mymove 0.5s;
+    animation: mymove 0.5s;
+    background-color: #fff;
+    -webkit-box-shadow: 4px 9px 25px -6px rgba(77,77,77,0.61);
+    -moz-box-shadow: 4px 9px 25px -6px rgba(77,77,77,0.61);
+    box-shadow: 4px 9px 25px -6px rgba(77,77,77,0.61);
+}
+
+li.dropdown:hover ul.dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu li:hover a {
+    color: #ec5626;
+}
+
+.dropdown-menu li {
+    border-bottom: 1px solid #ccc;
+    padding: 20px;
+    display: block;
+}
+
+    .dropdown-menu li a {
+        color: #444;
+        text-decoration: none;
+        text-transform: capitalize;
+    }
+
+@keyframes mymove {
+    from {
+        left: 100px;
+        height: 0px;
+        opacity: 0;
+        border-bottom: 0px;
+    }
+
+    to {
+        height: auto;
+    }
+}
+
+.navbar-nav a.nav-link {
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    padding: 0px !important;
+}
+
+ul.navbar-nav li.nav-item {
+    margin: 0 20px;
+}
+
+ul.navbar-nav .nav-item:after {
+    content: '';
+    display: block;
+    height: 3px;
+    width: 0;
+    transition: width .5s ease, background-color .5s ease;
+}
+
+.navbar-nav .nav-item:hover:after {
+    width: 100%;
+    background: #eb3719;
 }
 
 /*-------------------------------------------------------------------------------
@@ -310,4 +395,18 @@ footer .btn-close:hover,
 footer .btn-close-dark:hover {
     outline: none;
     color: #dbd7e0;
+}
+
+footer .no-icon-list:last-child a {
+    color: black;
+    border-bottom: none;
+    text-decoration: none;
+}
+
+footer .no-icon-list:last-child a:hover  {
+    color:blue;
+    transition: all 0.17s ease-in-out;
+    -moz-transition: all 0.17s ease-in-out;
+    -webkit-transition: all 0.17s ease-in-out;
+    -o-transition: all 0.17s ease-in-out;
 }
