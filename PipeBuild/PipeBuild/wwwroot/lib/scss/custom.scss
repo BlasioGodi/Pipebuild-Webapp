@@ -3,24 +3,44 @@
 @import "../node_modules/bootstrap/scss/functions";
 @import "../node_modules/bootstrap/scss/variables";
 @import "../node_modules/bootstrap/scss/mixins";
-@import "../node_modules/bootstrap/scss/nav";
+@import "../node_modules/bootstrap/scss/bootstrap";
 
 $btn-primary-color: #ffffff;
-$btn-primary-bg: #007bff;
-$btn-primary-border: #007bff;
+$btn-primary-bg: rgb(73, 132, 184);
+$btn-primary-border: rgb(73, 132, 184);
+
+$nav-primary-color: white;
+$nav-primary-bg: rgb(73, 132, 184);
+$nav-primary-bg-1: darken(rgb(73, 132, 184), 30%);
+$nav-primary-color: white;
+
+.navbar-custom {
+  @extend .navbar;
+  border-radius: 20px;
+  position: absolute;
+  top: 2%;
+  left: 10%;
+  width: 80%;
+  border-radius: 25px;
+  background-image: linear-gradient(
+    to right,
+    $nav-primary-bg-1,
+    $nav-primary-bg
+  );
+  color: $nav-primary-color;
+}
 
 .nav-link-active {
   @extend .nav-link;
-  background-color: $btn-primary-bg;
-  border-color: $btn-primary-border;
-  color: $btn-primary-color;
-  border-radius: 25px;
+  border-radius: 20px;
+  color: white;
+  font-family: "Domine", serif;
 
   &:hover,
   &:focus,
   &:active {
-    background-color: darken($btn-primary-bg, 10%);
-    border-color: darken($btn-primary-border, 10%);
+    background-color: darken($btn-primary-bg, 15%);
+    border-color: darken($btn-primary-border, 15%);
     color: $btn-primary-color;
   }
 }

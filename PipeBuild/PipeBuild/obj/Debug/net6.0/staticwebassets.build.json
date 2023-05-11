@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Y99J9XA3Cp6FkZGfbMgiXVz7kOtbHFdmHPOg/ftSrYQ=",
+  "Hash": "jShO2vdaXlJEFNV2kIdK7ObbfYCaYSSB2WuwpKH8IoU=",
   "Source": "PipeBuild",
   "BasePath": "_content/PipeBuild",
   "Mode": "Default",
@@ -83,40 +83,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap_custom.css.map"
-    },
-    {
-      "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\custom.css",
-      "SourceId": "PipeBuild",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\",
-      "BasePath": "_content/PipeBuild",
-      "RelativePath": "css/custom.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\custom.css"
-    },
-    {
-      "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\custom.css.map",
-      "SourceId": "PipeBuild",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\",
-      "BasePath": "_content/PipeBuild",
-      "RelativePath": "css/custom.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\custom.css.map"
     },
     {
       "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\site.css",

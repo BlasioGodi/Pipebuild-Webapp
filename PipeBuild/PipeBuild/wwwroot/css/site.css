@@ -69,7 +69,7 @@
 /* 1.1 General */
 
 @import url("../lib/node_modules/font-awesome/css/font-awesome.css");
-@import url("https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600&family=Playfair+Display:ital@0;1&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Domine:wght@400;500;600;700&display=swap');
 
 ::-webkit-scrollbar {
     width: 8px;
@@ -77,175 +77,154 @@
 }
 
 ::-webkit-scrollbar-thumb {
-    cursor: pointer;
-    background: var(--theme-color);
+  cursor: pointer;
+  background: var(--theme-color);
 }
 
 ::selection {
-    background-color: #100c72;
-    color: #fff;
+  background-color: #100c72;
+  color: #fff;
 }
 
 -webkit-::selection {
-    background-color: var(--theme-color);
-    color: #fff;
+  background-color: var(--theme-color);
+  color: #fff;
 }
 
 ::-moz-selection {
-    background-color: var(--theme-color);
-    color: #fff;
+  background-color: var(--theme-color);
+  color: #fff;
 }
 
 .layout {
-    position: relative;
-    overflow: hidden;
+  position: relative;
+  overflow: hidden;
 }
 
 /* 1.2 Typography */
 
 :root {
-    --font-family: "Playfair Display", serif;
-    --bs-title-font-family: "Alkatra", cursive;
+    --bs-title-font-family: 'Anton', sans-serif;
+    --font-family: 'Domine', serif;
     --text-color-red: red;
     --text-color-blue: #1da1f2;
     --theme-color: gold;
 }
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 a {
-    color:black;
-    border-bottom: none;
-    text-decoration: none;
+  color: black;
+  border-bottom: none;
+  text-decoration: none;
 }
 
-    a:hover {
-        transition: all 0.17s ease-in-out;
-        -moz-transition: all 0.17s ease-in-out;
-        -webkit-transition: all 0.17s ease-in-out;
-        -o-transition: all 0.17s ease-in-out;
-    }
+a:hover {
+  transition: all 0.17s ease-in-out;
+  -moz-transition: all 0.17s ease-in-out;
+  -webkit-transition: all 0.17s ease-in-out;
+  -o-transition: all 0.17s ease-in-out;
+}
 
 input::placeholder {
-    color: white;
+  color: white;
 }
 
 label {
-    color: white;
+  color: white;
 }
 
 /* 1.7 Social Media */
 
 .social-title {
-    font-family: var(--bs-title-font-family);
-    font-size: 1.2em;
+  font-family: var(--bs-title-font-family);
+  font-size: 1.2em;
+  font-weight:400;
 }
 
 .social-list {
-    margin-bottom: 0.5vmin;
+  margin-bottom: 0.5vmin;
 }
 
-    .social-list li {
-        margin-top: 0.5vmin;
-        display: inline-block;
-    }
+.social-list li {
+  margin-top: 0.5vmin;
+  display: inline-block;
+}
 
-    .social-list.vertical li {
-        display: block;
-    }
+.social-list.vertical li {
+  display: block;
+}
 
-    .social-list .bi,
-    .social-list .fa {
-        color: #606060;
-        font-size: 1.5em;
-        width: 1.5em;
-        height: 1.2em;
-        line-height: 1.2em;
-        transition: all 0.17s ease-in-out;
-        -moz-transition: all 0.17s ease-in-out;
-        -webkit-transition: all 0.17s ease-in-out;
-        -o-transition: all 0.17s ease-in-out;
-        border-radius: 50%;
-        -webkit-border-radius: 50%;
-        -moz-border-radius: 50%;
-        -o-border-radius: 50%;
-    }
+.social-list .bi,
+.social-list .fa {
+  color: #606060;
+  font-size: 1.5em;
+  width: 1.5em;
+  height: 1.2em;
+  line-height: 1.2em;
+  transition: all 0.17s ease-in-out;
+  -moz-transition: all 0.17s ease-in-out;
+  -webkit-transition: all 0.17s ease-in-out;
+  -o-transition: all 0.17s ease-in-out;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -o-border-radius: 50%;
+}
 
 .social-list-facebook:hover,
 .social-list-facebook .fa:hover {
-    color: #4267b2;
-    text-decoration: none;
+  color: #4267b2;
+  text-decoration: none;
 }
 
 .social-list-whatsapp:hover,
 .social-list-whatsapp .fa:hover {
-    color: #25d366;
-    text-decoration: none;
+  color: #25d366;
+  text-decoration: none;
 }
 
 .social-list-twitter:hover,
 .social-list-twitter .fa:hover {
-    color: #1da1f2;
-    text-decoration: none;
+  color: #1da1f2;
+  text-decoration: none;
 }
 
 .social-list-instagram:hover,
 .social-list-instagram .fa:hover {
-    color: #fcaf45;
-    text-decoration: none;
+  color: #fcaf45;
+  text-decoration: none;
 }
 
 .social-list-linkedin:hover,
 .social-list-linkedin .fa:hover {
-    color: #0077b5;
-    text-decoration: none;
+  color: #0077b5;
+  text-decoration: none;
 }
 
 .social-list-pinterest:hover,
 .social-list-pinterest .fa:hover {
-    color: #e60023;
-    text-decoration: none;
+  color: #e60023;
+  text-decoration: none;
 }
 
 .social-list-telegram:hover,
 .social-list-telegram .fa:hover {
-    color: #229ed9;
-    text-decoration: none;
+  color: #229ed9;
+  text-decoration: none;
 }
 
 .social-list-tiktok a:hover,
 .bi:hover {
-    color: #ee1d52;
-    text-decoration: none;
+  color: #ee1d52;
+  text-decoration: none;
 }
 
 /* 2.1 Brand & Navbar */
-
-.nav-bar-abs {
-    position: absolute;
-    top: 2%;
-    left: 10%;
-    width: 80%;
-    border-radius:25px;
-}
-.nav-link.active
-.nav-link {
-    border-radius: 25px;
-    width: 100%;
-}
-
-.nav-link.active:hover,
-.nav-link:hover{
-    background-color: blue;
-    color: white;
-    border-radius:25px;
-    width: 100%;
-}
-
 
 /*-------------------------------------------------------------------------------
   10. Footer
@@ -254,103 +233,103 @@ label {
 /* 10.1 Styling */
 
 .footer {
-    font-family: var(--font-family);
-    font-size: 0.8rem;
+  font-family: var(--font-family);
+  font-size: 0.8rem;
 }
 
 .footer-priv {
-    text-transform: uppercase;
-    font-family: var(--bs-title-font-family);
+  text-transform: uppercase;
+  font-family: var(--bs-title-font-family);
 }
 
 .gutter {
-    min-height: 20px;
+  min-height: 20px;
 }
 
 .list-title {
-    font-family: var(--bs-title-font-family);
-    font-weight: 500;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+  font-family: var(--bs-title-font-family);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 footer .col-footer {
-    line-height: 1.25rem;
-    border-bottom: 1px solid rgba(146, 157, 170, 0.22);
+  line-height: 1.25rem;
+  border-bottom: 1px solid rgba(146, 157, 170, 0.22);
 }
 
-    footer .col-footer .title i {
-        transition: transform 0.4s;
-        font-size: 8px;
-    }
+footer .col-footer .title i {
+  transition: transform 0.4s;
+  font-size: 8px;
+}
 
 @media (min-width: 575px) {
-    footer .col-footer {
-        border: none;
-    }
+  footer .col-footer {
+    border: none;
+  }
 
-    #btn-close-1,
-    #btn-close-2,
-    #btn-close-3,
-    #btn-close-4 {
-        display: none;
-    }
+  #btn-close-1,
+  #btn-close-2,
+  #btn-close-3,
+  #btn-close-4 {
+    display: none;
+  }
 }
 
 @media (max-width: 768px) {
-    #btn-close-1,
-    #btn-close-2,
-    #btn-close-3,
-    #btn-close-4 {
-        display: block;
-    }
+  #btn-close-1,
+  #btn-close-2,
+  #btn-close-3,
+  #btn-close-4 {
+    display: block;
+  }
 }
 
 /* 10.2 Drop-down Settings */
 footer .btn-close {
-    transform: rotate(45deg) scale(0.75);
-    transition: all 0.5s ease-in-out;
-    -moz-transition: all 0.5s ease-in-out;
-    -webkit-transition: all 0.5s ease-in-out;
-    -o-transition: all 0.5s ease-in-out;
+  transform: rotate(45deg) scale(0.75);
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
 }
 
-footer .btn-close-dark{
-    color:black;
-    outline:none;
+footer .btn-close-dark {
+  color: black;
+  outline: none;
 }
 
-    footer .btn-close:focus,
-    footer .btn-close-dark:focus {
-        outline: none;
-        box-shadow: none;
-    }
+footer .btn-close:focus,
+footer .btn-close-dark:focus {
+  outline: none;
+  box-shadow: none;
+}
 
 footer .btn-click {
-    transform: rotate(90deg) scale(0.75);
+  transform: rotate(90deg) scale(0.75);
 }
 
 footer .d-md-block.collapse.show:focus {
-    transform: rotate(90deg) scale(0.75);
+  transform: rotate(90deg) scale(0.75);
 }
 
 footer .btn-close:hover,
 footer .btn-close-dark:hover {
-    outline: none;
-    color: #dbd7e0;
+  outline: none;
+  color: #dbd7e0;
 }
 
 footer .no-icon-list:last-child a {
-    color: black;
-    border-bottom: none;
-    text-decoration: none;
+  color: black;
+  border-bottom: none;
+  text-decoration: none;
 }
 
-footer .no-icon-list:last-child a:hover  {
-    color:blue;
-    transition: all 0.17s ease-in-out;
-    -moz-transition: all 0.17s ease-in-out;
-    -webkit-transition: all 0.17s ease-in-out;
-    -o-transition: all 0.17s ease-in-out;
+footer .no-icon-list:last-child a:hover {
+  color: blue;
+  transition: all 0.17s ease-in-out;
+  -moz-transition: all 0.17s ease-in-out;
+  -webkit-transition: all 0.17s ease-in-out;
+  -o-transition: all 0.17s ease-in-out;
 }
