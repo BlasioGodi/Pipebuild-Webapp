@@ -1,0 +1,7 @@
+D:\Git\Pipebuild-Webapp\PipeBuild\PipeBuild\obj\Release\net6.0\PubTmp\Out\PipeBuild.exe
+D:\Git\Pipebuild-Webapp\PipeBuild\PipeBuild\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Git\Pipebuild-Webapp\PipeBuild\PipeBuild\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Git\Pipebuild-Webapp\PipeBuild\PipeBuild\obj\Release\net6.0\PubTmp\Out\PipeBuild.dll
+D:\Git\Pipebuild-Webapp\PipeBuild\PipeBuild\obj\Release\net6.0\PubTmp\Out\PipeBuild.deps.json
+D:\Git\Pipebuild-Webapp\PipeBuild\PipeBuild\obj\Release\net6.0\PubTmp\Out\PipeBuild.runtimeconfig.json
+D:\Git\Pipebuild-Webapp\PipeBuild\PipeBuild\obj\Release\net6.0\PubTmp\Out\PipeBuild.pdb
