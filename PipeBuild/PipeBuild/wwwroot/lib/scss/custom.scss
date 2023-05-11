@@ -1,9 +1,26 @@
 // custom.scss
 
-@import "../node_modules/bootstrap/scss/";
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "../node_modules/bootstrap/scss/nav";
 
-$primary-color: #007bff; // Override the primary color variable
+$btn-primary-color: #ffffff;
+$btn-primary-bg: #007bff;
+$btn-primary-border: #007bff;
 
-.btn-primary {
-  background-color: $primary-color;
+.nav-link-active {
+  @extend .nav-link;
+  background-color: $btn-primary-bg;
+  border-color: $btn-primary-border;
+  color: $btn-primary-color;
+  border-radius: 25px;
+
+  &:hover,
+  &:focus,
+  &:active {
+    background-color: darken($btn-primary-bg, 10%);
+    border-color: darken($btn-primary-border, 10%);
+    color: $btn-primary-color;
+  }
 }
