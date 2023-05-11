@@ -138,8 +138,6 @@ label {
     color: white;
 }
 
-
-
 /* 1.7 Social Media */
 
 .social-title {
@@ -227,13 +225,26 @@ label {
 
 /* 2.1 Brand & Navbar */
 
-/*.nav-bar-abs {
+.nav-bar-abs {
     position: absolute;
     top: 2%;
     left: 10%;
     width: 80%;
     border-radius:25px;
-}*/
+}
+.nav-link.active
+.nav-link {
+    border-radius: 25px;
+    width: 100%;
+}
+
+.nav-link.active:hover,
+.nav-link:hover{
+    background-color: blue;
+    color: white;
+    border-radius:25px;
+    width: 100%;
+}
 
 
 /*-------------------------------------------------------------------------------
