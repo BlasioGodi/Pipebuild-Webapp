@@ -265,80 +265,876 @@
       "PackagePath": "staticwebassets\\lib\\node_modules\\@popperjs\\core\\package.json"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\README.md",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\README.md"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\alert.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\alert.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\alert.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\base-component.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\base-component.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\base-component.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\base-component.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\button.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\button.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\button.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\button.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\carousel.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\carousel.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\carousel.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\collapse.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\collapse.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\collapse.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\dom\\data.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\dom\\data.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\dom\\data.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\dom\\data.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\dom\\event-handler.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\dom\\event-handler.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\dom\\event-handler.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\dom\\manipulator.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\dom\\manipulator.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\dom\\manipulator.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\dom\\selector-engine.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\dom\\selector-engine.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\dropdown.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\dropdown.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\dropdown.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\modal.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\modal.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\modal.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\offcanvas.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\offcanvas.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\offcanvas.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\offcanvas.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\popover.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\popover.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\popover.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\scrollspy.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\scrollspy.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\scrollspy.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\tab.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\tab.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\tab.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\toast.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\toast.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\toast.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\tooltip.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\tooltip.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\tooltip.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\backdrop.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\backdrop.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\backdrop.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\component-functions.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\component-functions.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\component-functions.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\config.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\config.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\config.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\config.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\focustrap.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\focustrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\focustrap.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\index.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\index.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\index.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\sanitizer.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\sanitizer.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\sanitizer.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\scrollbar.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\scrollbar.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\scrollbar.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\swipe.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\swipe.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\swipe.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\template-factory.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\dist\\util\\template-factory.js.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\dist\\util\\template-factory.js.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\alert.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\base-component.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\base-component.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\button.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\button.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\carousel.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\collapse.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\dom\\data.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\dom\\data.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\dom\\event-handler.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\dom\\manipulator.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\dropdown.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\modal.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\offcanvas.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\offcanvas.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\popover.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\scrollspy.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\tab.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\toast.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\tooltip.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\util\\backdrop.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\util\\component-functions.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\util\\config.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\util\\config.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\util\\focustrap.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\util\\index.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\util\\index.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\util\\sanitizer.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\util\\scrollbar.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\util\\swipe.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\js\\src\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\js\\src\\util\\template-factory.js"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\package.json",
       "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\package.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\.npmignore",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\.npmignore"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\HELP-US-OUT.txt",
       "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\HELP-US-OUT.txt"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\README.md",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\README.md"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\css\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\css\\font-awesome.css.map"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\css\\font-awesome.min.css",
@@ -353,6 +1149,10 @@
       "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\fonts\\fontawesome-webfont.eot"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\fonts\\fontawesome-webfont.ttf"
     },
@@ -361,8 +1161,124 @@
       "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\fonts\\fontawesome-webfont.woff"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\less\\variables.less"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\package.json",
       "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\package.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\scss\\font-awesome.scss"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\package-lock.json",
