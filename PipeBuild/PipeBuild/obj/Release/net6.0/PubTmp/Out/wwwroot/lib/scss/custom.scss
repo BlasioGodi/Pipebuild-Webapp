@@ -15,32 +15,46 @@ $nav-primary-bg-1: darken(rgb(73, 132, 184), 30%);
 $nav-primary-color: white;
 
 .navbar-custom {
-  @extend .navbar;
-  border-radius: 20px;
-  position: absolute;
-  top: 2%;
-  left: 10%;
-  width: 80%;
-  border-radius: 25px;
-  background-image: linear-gradient(
-    to right,
-    $nav-primary-bg-1,
-    $nav-primary-bg
-  );
-  color: $nav-primary-color;
+    @extend .navbar;
+    border-radius: 20px;
+    position: absolute;
+    top: 2%;
+    left: 10%;
+    width: 80%;
+    border-radius: 25px;
+    background-image: linear-gradient( to right, $nav-primary-bg-1, $nav-primary-bg );
+    color: $nav-primary-color;
 }
 
 .nav-link-active {
-  @extend .nav-link;
-  border-radius: 20px;
-  color: white;
-  font-family: "Domine", serif;
+    @extend .nav-link;
+    border-radius: 20px;
+    color: white;
+    font-family: "Domine", serif;
 
-  &:hover,
-  &:focus,
-  &:active {
-    background-color: darken($btn-primary-bg, 15%);
-    border-color: darken($btn-primary-border, 15%);
-    color: $btn-primary-color;
-  }
+    &:hover,
+    &:focus,
+    &:active {
+        background-color: darken($btn-primary-bg, 15%);
+        border-color: darken($btn-primary-border, 15%);
+        color: $btn-primary-color;
+    }
+}
+
+.card-no-bg {
+    @extend .card;
+    background-color: transparent;
+    border-radius: 0;
+    background-image: url("/src/img/slider/Plumb-01.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card-img-no-rad,
+.card-img-top-no-rad {
+    @extend .card-img-top, .card-img;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
 }
