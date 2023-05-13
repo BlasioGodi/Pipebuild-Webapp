@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "bootstrap": "^5.2.3",
-    "font-awesome": "^4.7.0"
+    "font-awesome": "^4.7.0",
+    "owl.carousel": "^2.3.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\owl-carousel-project.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel-project.js"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\revolution.js",
       "PackagePath": "staticwebassets\\js\\revolution.js"
     },
@@ -1279,6 +1283,1262 @@
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\font-awesome\\scss\\font-awesome.scss",
       "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\AUTHORS.txt"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\README.md",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\README.md"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\bower.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\package.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\package.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\ajax.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\ajax.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\ajax\\jsonp.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\ajax\\jsonp.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\ajax\\load.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\ajax\\load.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\ajax\\script.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\ajax\\script.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\ajax\\var\\location.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\ajax\\var\\location.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\ajax\\var\\nonce.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\ajax\\var\\nonce.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\ajax\\var\\rquery.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\ajax\\var\\rquery.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\ajax\\xhr.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\ajax\\xhr.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\attributes.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\attributes.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\attributes\\attr.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\attributes\\attr.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\attributes\\classes.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\attributes\\classes.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\attributes\\prop.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\attributes\\prop.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\attributes\\support.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\attributes\\support.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\attributes\\val.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\attributes\\val.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\callbacks.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\callbacks.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core\\DOMEval.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core\\DOMEval.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core\\access.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core\\access.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core\\camelCase.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core\\camelCase.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core\\init.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core\\init.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core\\isAttached.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core\\isAttached.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core\\nodeName.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core\\nodeName.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core\\parseHTML.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core\\parseHTML.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core\\parseXML.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core\\parseXML.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core\\ready-no-deferred.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core\\ready-no-deferred.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core\\ready.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core\\ready.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core\\readyException.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core\\readyException.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core\\stripAndCollapse.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core\\stripAndCollapse.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core\\support.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core\\support.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core\\toType.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core\\toType.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core\\var\\rhtml.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core\\var\\rhtml.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\core\\var\\rsingleTag.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\core\\var\\rsingleTag.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\css.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\css.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\css\\addGetHookIf.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\css\\addGetHookIf.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\css\\adjustCSS.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\css\\adjustCSS.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\css\\curCSS.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\css\\curCSS.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\css\\finalPropName.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\css\\finalPropName.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\css\\hiddenVisibleSelectors.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\css\\hiddenVisibleSelectors.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\css\\showHide.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\css\\showHide.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\css\\support.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\css\\support.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\css\\var\\cssExpand.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\css\\var\\cssExpand.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\css\\var\\getStyles.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\css\\var\\getStyles.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\css\\var\\isHiddenWithinTree.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\css\\var\\isHiddenWithinTree.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\css\\var\\rboxStyle.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\css\\var\\rboxStyle.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\css\\var\\rcustomProp.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\css\\var\\rcustomProp.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\css\\var\\rnumnonpx.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\css\\var\\rnumnonpx.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\css\\var\\swap.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\css\\var\\swap.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\data.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\data.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\data\\Data.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\data\\Data.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\data\\var\\acceptData.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\data\\var\\acceptData.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\data\\var\\dataPriv.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\data\\var\\dataPriv.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\data\\var\\dataUser.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\data\\var\\dataUser.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\deferred.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\deferred.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\deferred\\exceptionHook.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\deferred\\exceptionHook.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\deprecated.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\deprecated.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\deprecated\\ajax-event-alias.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\deprecated\\ajax-event-alias.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\deprecated\\event.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\deprecated\\event.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\dimensions.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\dimensions.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\effects.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\effects.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\effects\\Tween.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\effects\\Tween.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\effects\\animatedSelector.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\effects\\animatedSelector.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\event.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\event.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\event\\trigger.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\event\\trigger.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\exports\\amd.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\exports\\amd.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\exports\\global.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\exports\\global.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\jquery.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\manipulation.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\manipulation.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\manipulation\\_evalUrl.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\manipulation\\_evalUrl.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\manipulation\\buildFragment.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\manipulation\\buildFragment.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\manipulation\\getAll.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\manipulation\\getAll.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\manipulation\\setGlobalEval.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\manipulation\\setGlobalEval.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\manipulation\\support.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\manipulation\\support.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\manipulation\\var\\rscriptType.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\manipulation\\var\\rscriptType.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\manipulation\\var\\rtagName.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\manipulation\\var\\rtagName.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\manipulation\\wrapMap.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\manipulation\\wrapMap.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\offset.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\offset.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\queue.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\queue.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\queue\\delay.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\queue\\delay.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\selector-native.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\selector-native.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\selector.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\selector.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\selector\\contains.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\selector\\contains.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\selector\\escapeSelector.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\selector\\escapeSelector.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\serialize.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\serialize.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\traversing.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\traversing.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\traversing\\findFilter.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\traversing\\findFilter.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\traversing\\var\\dir.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\traversing\\var\\dir.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\traversing\\var\\rneedsContext.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\traversing\\var\\rneedsContext.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\traversing\\var\\siblings.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\traversing\\var\\siblings.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\ObjectFunctionString.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\ObjectFunctionString.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\arr.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\arr.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\class2type.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\class2type.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\document.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\document.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\documentElement.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\documentElement.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\flat.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\flat.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\fnToString.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\fnToString.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\getProto.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\getProto.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\hasOwn.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\hasOwn.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\indexOf.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\indexOf.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\isFunction.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\isFunction.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\isWindow.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\isWindow.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\pnum.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\pnum.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\pop.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\pop.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\push.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\push.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\rcheckableType.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\rcheckableType.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\rcssNum.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\rcssNum.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\rnothtmlwhite.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\rnothtmlwhite.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\rtrimCSS.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\rtrimCSS.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\slice.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\slice.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\sort.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\sort.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\splice.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\splice.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\support.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\support.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\toString.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\toString.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\var\\whitespace.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\var\\whitespace.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\wrap.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\wrap.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\.gitattributes",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\.gitattributes"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\.travis.yml",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\.travis.yml"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\Gruntfile.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\README.md",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\README.md"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\ROADMAP.md",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\ROADMAP.md"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\_config.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\_config.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\bower.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\dist\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\dist"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\dist\\README.md",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\dist\\README.md"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\dist\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\dist\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\dist\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\dist\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\dist\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\dist\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\dist\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\dist\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\dist\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\dist\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\dist\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\dist\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\dist\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\dist\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\dist\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\dist\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\dist\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\dist\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\dist\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\dist\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\css\\docs.theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\css\\docs.theme.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\bird_blue_32.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\bird_blue_32.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\download.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\download.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\feature-drag.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\feature-drag.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\feature-modern.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\feature-modern.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\feature-module.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\feature-module.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\feature-options.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\feature-options.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\feature-responsive.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\feature-responsive.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\feature-zombie.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\feature-zombie.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\owl-logo.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\owl-logo.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\twitter_25.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\img\\twitter_25.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\js\\foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\js\\foundation.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\README.md",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\README.md"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\vendors\\foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\vendors\\foundation.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\vendors\\highlight.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\vendors\\highlight.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\vendors\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\vendors\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\vendors\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\vendors\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\assets\\vendors\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\assets\\vendors\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\animate.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\animate.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\autoheight.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\autoheight.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\autoplay.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\autoplay.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\autowidth.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\autowidth.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\basic.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\basic.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\center.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\center.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\demos.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\demos.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\events.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\events.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\lazyLoad.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\lazyLoad.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\merge.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\merge.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\mousewheel.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\mousewheel.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\responsive.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\responsive.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\rtl.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\rtl.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\stagepadding.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\stagepadding.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\test.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\test.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\urlhashnav.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\urlhashnav.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\demos\\video.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\demos\\video.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\docs\\api-classes.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\docs\\api-classes.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\docs\\api-events.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\docs\\api-events.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\docs\\api-options.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\docs\\api-options.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\docs\\dev-buildin-plugins.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\docs\\dev-buildin-plugins.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\docs\\dev-external.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\docs\\dev-external.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\docs\\dev-plugin-api.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\docs\\dev-plugin-api.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\docs\\dev-styles.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\docs\\dev-styles.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\docs\\started-faq.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\docs\\started-faq.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\docs\\started-installation.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\docs\\started-installation.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\docs\\started-welcome.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\docs\\started-welcome.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\docs\\support-changelog.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\docs\\support-changelog.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\docs\\support-contact.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\docs\\support-contact.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\docs\\support-contributing.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\docs\\support-contributing.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs\\index.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs\\index.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\bird_blue_32.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\bird_blue_32.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\download.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\download.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\feature-drag.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\feature-drag.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\feature-modern.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\feature-modern.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\feature-module.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\feature-module.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\feature-options.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\feature-options.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\feature-responsive.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\feature-responsive.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\feature-zombie.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\feature-zombie.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\owl-logo.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\owl-logo.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\twitter_25.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\img\\twitter_25.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\js\\foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\js\\foundation.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\scss\\_settings.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\scss\\_settings.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\scss\\custom.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\scss\\custom.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\scss\\demos.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\scss\\demos.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\scss\\docs.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\scss\\docs.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\scss\\docs.theme.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\scss\\docs.theme.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\scss\\highlight.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\scss\\highlight.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\vendors\\foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\vendors\\foundation.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\vendors\\highlight.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\vendors\\highlight.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\vendors\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\vendors\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\vendors\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\vendors\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\vendors\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\assets\\vendors\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\data\\classes.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\data\\classes.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\data\\events.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\data\\events.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\data\\features.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\data\\features.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\data\\options.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\data\\options.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\helpers\\modulo.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\helpers\\modulo.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\helpers\\test.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\helpers\\test.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\layouts\\demos.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\layouts\\demos.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\layouts\\docs.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\layouts\\docs.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\layouts\\home.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\layouts\\home.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\animate.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\animate.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\autoheight.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\autoheight.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\autoplay.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\autoplay.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\autowidth.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\autowidth.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\basic.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\basic.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\center.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\center.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\demos.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\demos.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\events.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\events.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\lazyLoad.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\lazyLoad.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\merge.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\merge.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\mousewheel.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\mousewheel.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\responsive.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\responsive.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\rtl.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\rtl.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\stagepadding.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\stagepadding.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\test.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\test.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\urlhashnav.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\urlhashnav.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\video.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\demos\\video.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\api-classes.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\api-classes.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\api-events.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\api-events.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\api-options.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\api-options.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\dev-buildin-plugins.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\dev-buildin-plugins.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\dev-external.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\dev-external.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\dev-plugin-api.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\dev-plugin-api.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\dev-styles.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\dev-styles.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\started-faq.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\started-faq.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\started-installation.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\started-installation.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\started-welcome.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\started-welcome.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\support-changelog.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\support-changelog.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\support-contact.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\support-contact.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\support-contributing.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\docs\\support-contributing.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\index.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\pages\\index.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\footer.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\footer.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\head.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\head.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\header.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\header.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\home-carousel.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\home-carousel.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\home-features.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\home-features.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\home-hero.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\home-hero.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\home-teaser-text.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\home-teaser-text.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\javascripts.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\javascripts.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\releated-docs.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\releated-docs.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\sidenav-docs.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\sidenav-docs.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\title.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\title.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\vendors.hbs",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\docs_src\\templates\\partials\\vendors.hbs"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\package.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\package.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\img\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\img\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\img\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\img\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\js\\.jscsrc",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\js\\.jscsrc"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\js\\.jshintrc",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\js\\.jshintrc"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\js\\owl.animate.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\js\\owl.animate.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\js\\owl.autoheight.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\js\\owl.autoheight.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\js\\owl.autoplay.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\js\\owl.autoplay.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\js\\owl.autorefresh.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\js\\owl.autorefresh.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\js\\owl.hash.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\js\\owl.hash.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\js\\owl.lazyload.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\js\\owl.lazyload.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\js\\owl.navigation.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\js\\owl.navigation.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\js\\owl.support.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\js\\owl.support.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\js\\owl.support.modernizr.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\js\\owl.support.modernizr.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\js\\owl.video.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\js\\owl.video.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\scss\\_animate.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\scss\\_animate.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\scss\\_autoheight.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\scss\\_autoheight.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\scss\\_lazyload.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\scss\\_lazyload.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\scss\\_theme.default.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\scss\\_theme.default.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\scss\\_theme.green.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\scss\\_theme.green.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\scss\\_theme.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\scss\\_theme.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\scss\\_video.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\scss\\_video.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\scss\\owl.carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\scss\\owl.carousel.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\scss\\owl.theme.default.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\scss\\owl.theme.default.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\src\\scss\\owl.theme.green.scss",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\src\\scss\\owl.theme.green.scss"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\test\\index.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\test\\index.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\test\\unit\\autoplay.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\test\\unit\\autoplay.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\test\\unit\\core.js",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\owl.carousel\\test\\unit\\core.js"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\package-lock.json",

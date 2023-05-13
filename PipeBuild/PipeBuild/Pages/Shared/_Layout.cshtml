@@ -46,7 +46,9 @@
     <link rel="stylesheet" type="text/css" href="~/lib/rev-slider/revolution/css/layers.css">
     <!-- Revolution Navigation Styles -->
     <link rel="stylesheet" type="text/css" href="~/lib/rev-slider/revolution/css/navigation.css">
-
+    <!-- Owl Carousel Styles -->
+    <link href="~/lib/node_modules/owl.carousel/dist/assets/owl.carousel.min.css" rel="stylesheet" />
+    <link href="~/lib/node_modules/owl.carousel/dist/assets/owl.theme.default.min.css" rel="stylesheet" />
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar" data-offset="100">
     @await Html.PartialAsync("_Header")
@@ -87,6 +89,9 @@
     <script type="text/javascript"
             src="~/lib/rev-slider/revolution/js/extensions/revolution.extension.video.min.js"></script>
     <script type="text/javascript" src="~/js/revolution.js"></script>
+    <!-- Owl Carousel Files -->
+    <script src="~/lib/node_modules/owl.carousel/dist/owl.carousel.min.js"></script>
+    <script src="~/js/owl-carousel-project.js"></script>
 
     @await RenderSectionAsync("Scripts", required: false)
 </body>
