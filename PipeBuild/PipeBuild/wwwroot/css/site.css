@@ -300,7 +300,7 @@ footer .col-footer .title i {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 700px) {
   #btn-close-1,
   #btn-close-2,
   #btn-close-3,
@@ -512,6 +512,126 @@ footer .no-icon-list:last-child a:hover {
     padding: 0 5px;
 }
 
+.col-address {
+    font-size: 1.125em;
+    line-height: 2.1;
+    margin-top: 2em;
+}
+
+.contact-info {
+    color: #fff;
+    padding: 0;
+    background: url(../img/bg/contact-details.jpg) 50% no-repeat;
+    background-size: cover;
+}
+
+.contact-info-content {
+    padding: 3.5rem 5.6rem;
+}
+
+.contact-info-title {
+    font-family: "Oswald", sans-serif;
+    font-size: 80px;
+    letter-spacing: 0.32em;
+    text-transform: uppercase;
+    color: #fff;
+    opacity: 0.1;
+    position: absolute;
+    top: 100%;
+    left: 100%;
+    margin-top: -0.5em;
+    margin-left: -2.3em;
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    -webkit-transform-origin: 0 0;
+    transform-origin: 0 0;
+}
+
+.contact-row {
+    position: relative;
+    z-index: 1;
+    margin-bottom: 2.3em;
+}
+
+    .contact-row:last-child {
+        margin-bottom: 0;
+    }
+
+    .contact-row h4 {
+        margin: 0 0 0.8em;
+        color: #fff;
+    }
+
+    .contact-row .fa {
+        float: left;
+        width: 1.1em;
+        margin-top: -0.15em;
+        padding: 1px;
+        text-align: center;
+        font-size: 1.3em;
+        line-height: 1.25;
+    }
+
+.contact-body {
+    padding-left: 2.6em;
+}
+
+.contact-content {
+    font-size: 1.3em;
+}
+
+.phone-row {
+    font-size: 1.3em;
+    letter-spacing: 0.2em;
+    margin-top: 0.5em;
+}
+
+@media (max-width: 768px) {
+    .contact-info-content {
+        padding: 1.5rem 1.6rem;
+    }
+
+    .contact-row {
+        position: relative;
+        z-index: 1;
+        margin-bottom: 2.3em;
+    }
+
+        .contact-row:last-child {
+            margin-bottom: 0;
+        }
+
+        .contact-row h4 {
+            margin: 0 0 0.8em;
+            color: #fff;
+        }
+
+        .contact-row .fa {
+            float: left;
+            width: 1.1em;
+            margin-top: -0.15em;
+            padding: 1px;
+            text-align: center;
+            font-size: 1.3em;
+            line-height: 1.25;
+        }
+
+    .contact-body {
+        padding-left: 2.6em;
+    }
+
+    .contact-content {
+        font-size: 1.1em;
+    }
+
+    .phone-row {
+        font-size: 1.1em;
+        letter-spacing: 0.2em;
+        margin-top: 0.5em;
+    }
+
+}
+
 .form-control,
 textarea.form-control {
     font-size: 1em;
@@ -571,3 +691,4 @@ textarea.form-control {
 label.error {
     display: none !important;
 }
+
