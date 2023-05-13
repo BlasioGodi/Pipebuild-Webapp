@@ -429,6 +429,8 @@ $nav-primary-color: white;
 $nav-primary-bg: rgb(73, 132, 184);
 $nav-primary-bg-1: darken(rgb(73, 132, 184), 30%);
 
+$darken-primary: darken(crimson, 30%);
+
 $card-primary-color: white;
 
 .navbar-custom {
@@ -515,6 +517,25 @@ $card-primary-color: white;
 
 .bg-fixed {
   background-attachment: fixed;
+}
+.bg-blue {
+  background: #141e30; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #243b55,
+    #141e30
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #243b55,
+    #141e30
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #fff;
+}
+
+.bg-red-custom {
+  background: $darken-primary;
+  color: #fff;
 }
 
 .slider {

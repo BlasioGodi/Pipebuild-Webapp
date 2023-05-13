@@ -47,7 +47,7 @@
   8   Blog
       8.1 Blog Details
       8.2 Widgets
-      8.3 Widget Recent Post
+      8.3 Widget Recent team
 
   9.  Contacts
       9.1 Styling
@@ -356,3 +356,148 @@ footer .no-icon-list:last-child a:hover {
   -webkit-transition: all 0.17s ease-in-out;
   -o-transition: all 0.17s ease-in-out;
 }
+
+
+.swiper {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -150px;
+    margin-top: -150px;
+}
+
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+}
+
+    .swiper-slide img {
+        display: block;
+        width: 100%;
+    }
+
+
+.block {
+    float: left;
+    width: 100%;
+    padding: 130px 0;
+    position: relative;
+    z-index: 99;
+}
+
+    .block.no-padding {
+        padding: 0;
+    }
+
+    .block.less-padding {
+        padding: 80px 0;
+    }
+
+    .block.less-padding2 {
+        padding: 60px 0;
+    }
+
+    .block.less-padding3 {
+        padding: 90px 0;
+    }
+
+    .block.footer-pd {
+        padding: 120px 0 80px 0;
+    }
+
+.teams-sec {
+    float: left;
+    width: 100%;
+}
+
+.team {
+    float: left;
+    width: 100%;
+}
+
+.team-img {
+    float: left;
+    width: 100%;
+    margin-bottom: 20px;
+    overflow: hidden;
+    position: relative;
+}
+
+    .team-img:before,
+    .team-img:after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 50%;
+        height: 100%;
+        background-color: rgba(0,0,0,0.6);
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    .team-img:after {
+        right: 0;
+        left: auto;
+    }
+
+.team:hover .team-img:before {
+    opacity: 1;
+    visibility: visible;
+    width: 0;
+}
+
+.team:hover .team-img:after {
+    opacity: 1;
+    visibility: visible;
+    width: 0;
+}
+
+.team-img img {
+    width: 100%;
+    margin-bottom: -1px;
+}
+
+.team-details {
+    float: left;
+    width: 100%;
+}
+
+    .team-details .team-info li a,
+    .team-details .team-info li span {
+        font-size: 1rem;
+
+    }
+
+    .team-details .team-info {
+        margin-bottom: 15px;
+        margin-left: 0;
+        padding: 0;
+    }
+
+    .team-details > h3 {
+        color: #fff;
+        font-family: var(--bs-title-font-family);
+        font-weight: bold;
+        font-size: 19px;
+        text-transform: capitalize;
+        line-height: 28px;
+        letter-spacing:1px;
+        margin-bottom: 20px;
+    }
+
+    .team-details > a {
+        display: inline-block;
+        font-size: 12px;
+        text-transform: uppercase;
+    }
+
+        .team-details > a i {
+            color: #999999;
+            padding-left: 10px;
+            font-size: 20px;
+            position: relative;
+            top: 2px;
+        }

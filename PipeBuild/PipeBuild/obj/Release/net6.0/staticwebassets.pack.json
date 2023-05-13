@@ -4397,6 +4397,18 @@
       "PackagePath": "staticwebassets\\lib\\scss\\custom.scss"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\slider\\plugins.js",
+      "PackagePath": "staticwebassets\\lib\\slider\\plugins.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\slider\\popper.min.js",
+      "PackagePath": "staticwebassets\\lib\\slider\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\slider\\slider-swipe.js",
+      "PackagePath": "staticwebassets\\lib\\slider\\slider-swipe.js"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Plumb-01.jpg",
       "PackagePath": "staticwebassets\\src\\img\\slider\\Plumb-01.jpg"
     },
