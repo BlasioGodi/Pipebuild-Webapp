@@ -525,18 +525,18 @@ $card-primary-color: white;
 .slider .owl-item.active.center .slider-card {
   transform: scale(1.15);
   opacity: 1;
-  background: #141e30; /* fallback for old browsers */
-  background: -webkit-linear-gradient(
-    to right,
-    #243b55,
-    #141e30
-  ); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(
-    to right,
-    #243b55,
-    #141e30
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  color: #fff;
+  // background: #141e30; /* fallback for old browsers */
+  // background: -webkit-linear-gradient(
+  //   to right,
+  //   #243b55,
+  //   #141e30
+  // ); /* Chrome 10-25, Safari 5.1-6 */
+  // background: linear-gradient(
+  //   to right,
+  //   #243b55,
+  //   #141e30
+  // ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  // color: #fff;
 }
 
 .slider-card {
@@ -544,8 +544,56 @@ $card-primary-color: white;
   margin: 50px 15px 90px 15px;
   border-radius: 5px;
   box-shadow: 0 15px 45px -20px rgba(206, 191, 191, 0.493);
+  transform: scale(0.9);
+  opacity: 0.5;
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
 }
 
 .slider-card img {
   border-radius: 5px 5px 0px 0px;
+}
+
+.owl-nav .owl-next,
+.owl-nav .owl-prev {
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+}
+
+.owl-nav .owl-next {
+  position: absolute;
+  top: calc(50% - 25px);
+  right: 0;
+  opacity: 1;
+  font-size: 30px !important;
+  z-index: 1;
+}
+
+.owl-nav .owl-prev {
+  position: absolute;
+  top: calc(50% - 25px);
+  left: 0;
+  opacity: 1;
+  font-size: 30px !important;
+  z-index: 1;
+}
+
+.owl-dot {
+  padding: 100px;
+  font-size: 30px !important;
+}
+
+@media (max-width: 575px) {
+  .slider .owl-item.active.center .slider-card {
+    transform: scale(1.1);
+    opacity: 1;
+  }
+  // .owl-nav .owl-prev i,
+  // .owl-nav .owl-next i {
+  //   color: white;
+  // }
 }
