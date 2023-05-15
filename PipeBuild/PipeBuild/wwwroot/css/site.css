@@ -134,6 +134,10 @@ input::placeholder {
   color: white;
 }
 
+input:focus {
+  background: green;
+}
+
 label {
   color: white;
 }
@@ -999,7 +1003,7 @@ textarea.form-control {
   height: 3.625em;
   border-radius: 0.75em;
   padding-left: 22px;
-  color: #323232;
+  color: white;
   background-color: #323232;
   border: 1px solid #323232;
   -webkit-box-shadow: none;
@@ -1010,8 +1014,24 @@ textarea.form-control {
   transition: all 0.15s;
 }
 
-.form-input {
-    background-color: #000;
+textarea.form-control:focus {
+  color: white;
+  background-color: #323232;
+}
+
+form input[type="text"],
+form input[type="email"],
+form input[type="number"],
+form textarea:focus {
+  color: white;
+}
+
+form input[type="text"]:focus,
+form input[type="email"]:focus,
+form input[type="number"]:focus,
+form textarea:focus {
+  color: white;
+  background-color: #323232;
 }
 
 textarea.form-control {
