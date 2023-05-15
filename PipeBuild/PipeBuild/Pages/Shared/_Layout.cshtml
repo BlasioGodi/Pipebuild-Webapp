@@ -29,10 +29,10 @@ and special architectural demands." />
     <meta name="author" content="PipeBuild" />
 
     <!-- Favicons -->
-    <link rel="shortcut icon" sizes="64x64" width="64px" height="64px" href="~/src/logos/XAU-64x64.webp" />
-    <link rel="apple-touch-icon" sizes="32x32" width="32px" height="32px" href="~/src/logos/XAU-32x32.webp" />
-    <link rel="apple-touch-icon" sizes="72x72" width="72px" height="72px" href="~/src/logos/XAU-72x72.webp" />
-    <link rel="apple-touch-icon" sizes="114x114" width="114px" height="114px" href="~/src/logos/XAU-114x114.webp" />
+    <link rel="shortcut icon" sizes="64x64" width="64px" height="64px" href="~/src/logos/PB-Logo_64.jpg" />
+    <link rel="apple-touch-icon" sizes="32x32" width="32px" height="32px" href="~/src/logos/PB-Logo_32.jpg" />
+    <link rel="apple-touch-icon" sizes="72x72" width="72px" height="72px" href="~/src/logos/PB-Logo_72.jpg" />
+    <link rel="apple-touch-icon" sizes="114x114" width="114px" height="114px" href="~/src/logos/PB-Logo_114.jpg" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -57,6 +57,9 @@ and special architectural demands." />
 <body id="page-top" data-spy="scroll" data-target=".navbar" data-offset="100">
     @await Html.PartialAsync("_Header")
     <div class="layout">
+        <div class="loader navbar-brand">
+            <img src="src/logos/PB-Logo_114.jpg" alt="" />
+        </div>
         <main role="main">
             @RenderBody()
         </main>

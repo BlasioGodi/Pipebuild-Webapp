@@ -224,6 +224,75 @@ label {
   text-decoration: none;
 }
 
+/* 1.6 Loader */
+
+.loader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7f9fb;
+    transition: opacity 0.75s, visibility 0.75s;
+    z-index: 9999;
+}
+
+    .loader img {
+        position: absolute;
+        margin: auto;
+        padding: 50%;
+    }
+
+.loader-hidden {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.loader::before {
+    content: "";
+    width: 200px;
+    height: 200px;
+    border: 5px solid #dddddd;
+    border-top-color: gold;
+    border-radius: 50%;
+    animation: loading 2s linear infinite;
+}
+
+.img-rounded {
+    border-radius: 50%;
+}
+
+@keyframes loading {
+    0% {
+        transform: rotate(0deg);
+        border-top-color: gold;
+    }
+
+    25% {
+        transform: rotate(90deg);
+        border-top-color: gold;
+    }
+
+    50% {
+        transform: rotate(180deg);
+        border-top-color: red;
+    }
+
+    75% {
+        transform: rotate(270deg);
+        border-top-color: green;
+    }
+
+    100% {
+        transform: rotate(360deg);
+        border-top-color: gold;
+    }
+}
+
+
 /*-------------------------------------------------------------------------------
   3. Main
 -------------------------------------------------------------------------------*/
@@ -378,7 +447,7 @@ footer .no-icon-list:last-child a:hover {
         width: 100%;
     }
 
-
+/* Company Team Members*/
 .block {
     float: left;
     width: 100%;
@@ -502,12 +571,265 @@ footer .no-icon-list:last-child a:hover {
             top: 2px;
         }
 
+
+
+
+
+
+/*  ----------------------------------------------------
+15. TESTIMONIAL
+-------------------------------------------------------- */
+.testimonial .testimonial-header {
+    margin-bottom: 20px;
+    font-size: 12px;
+}
+
+    .testimonial .testimonial-header a {
+        color: #aaa;
+    }
+
+    .testimonial .testimonial-header img {
+        width: 60px;
+        height: 60px;
+    }
+
+.testimonial .testimonial-body p {
+    line-height: 25px;
+    margin-bottom: 15px;
+}
+
+.testimonial .testimonial-footer {
+    font-size: 12px;
+}
+
+    .testimonial .testimonial-header i,
+    .testimonial .testimonial-footer i {
+        margin-right: 5px;
+    }
+
+    .testimonial .testimonial-footer a {
+        color: #aaa;
+        margin-left: 5px;
+    }
+
+    .ppic-img{
+        max-width:60px;
+    }
+
+.testimonial-center {
+    text-align: center;
+    padding: 0 30px;
+}
+
+.testimonial-left {
+    text-align: left;
+    padding: 0 20px;
+}
+
+.testimonial-right {
+    text-align: right;
+    padding: 0 20px;
+}
+
+.testimonial-center .testimonial-header img {
+    margin: 0 auto;
+}
+
+.testimonial-left .testimonial-header {
+    float: left;
+    margin-right: 20px;
+}
+
+.testimonial-right .testimonial-header {
+    float: right;
+    margin-left: 20px;
+}
+
+.testimonial-left .testimonial-footer {
+    margin-left: 80px;
+}
+
+.testimonial-right .testimonial-footer {
+    margin-right: 80px;
+}
+
+/* Testimonial with Isoceles Icon */
+.testimonial-triangle-isosceles .testimonial-body,
+.testimonial-triangle-isosceles-has-bg .testimonial-body {
+    position: relative;
+    padding: 20px 20px 10px 20px;
+    margin: 20px;
+    color: #000;
+    background: #f5f7f9;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.testimonial-triangle-isosceles .testimonial-body {
+    -webkit-box-shadow: 0 1px 0 #ddd;
+    -moz-box-shadow: 0 1px 0 #ddd;
+    box-shadow: 0 1px 0 #ddd;
+}
+
+.testimonial-triangle-isosceles-has-bg .testimonial-body p {
+    color: #fff;
+    text-align: center;
+}
+
+/* Variant : for top positioned triangle
+------------------------------------------ */
+.testimonial-triangle-isosceles.top .testimonial-body {
+    background: #f1f2f2;
+}
+
+/* creates triangle */
+.testimonial-triangle-isosceles .testimonial-body:after {
+    content: "";
+    position: absolute;
+    bottom: -15px;
+    left: 50px;
+    border-width: 15px 15px 0;
+    border-style: solid;
+    border-color: #f1f2f2 transparent;
+    /* reduce the damage in FF3.0 */
+    display: block;
+    width: 0;
+}
+
+.testimonial-triangle-isosceles-has-bg.bottom-center .testimonial-body:after {
+    content: "";
+    position: absolute;
+    bottom: -15px;
+    left: 48%;
+    border-width: 15px 15px 0;
+    border-style: solid;
+    /* reduce the damage in FF3.0 */
+    display: block;
+    width: 0;
+}
+
+.testimonial-triangle-isosceles-has-bg.bottom-center .testimonial-body:after {
+    border-color: #f1f2f2 transparent;
+}
+
+.testimonial-triangle-isosceles-has-bg.bottom-center .testimonial-body.bg-pasific:after {
+    border-color: transparent;
+}
+
+.testimonial-triangle-isosceles-has-bg.bottom-center .testimonial-body.bg-primary:after {
+    border-color: #337ab7 transparent;
+}
+
+.testimonial-triangle-isosceles-has-bg.bottom-center .testimonial-body.bg-success:after {
+    border-color: #5cb85c transparent;
+}
+
+.testimonial-triangle-isosceles-has-bg.bottom-center .testimonial-body.bg-info:after {
+    border-color: #5bc0de transparent;
+}
+
+.testimonial-triangle-isosceles-has-bg.bottom-center .testimonial-body.bg-warning:after {
+    border-color: #f0ad4e transparent;
+}
+
+.testimonial-triangle-isosceles-has-bg.bottom-center .testimonial-body.bg-danger:after {
+    border-color: #d9534f transparent;
+}
+
+.testimonial-triangle-isosceles-has-bg.bottom-center .testimonial-body.bg-light:after {
+    border-color: #ffffff transparent;
+}
+
+.testimonial-triangle-isosceles-has-bg.bottom-center .testimonial-body.bg-gray2:after {
+    border-color: #8b949b transparent;
+}
+
+.testimonial-triangle-isosceles-has-bg.bottom-center .testimonial-body.bg-dark:after {
+    border-color: #5f6467 transparent;
+}
+
+/* Variant : top
+------------------------------------------ */
+.testimonial-triangle-isosceles.top .testimonial-body:after {
+    top: -15px;
+    right: 50px;
+    bottom: auto;
+    left: auto;
+    border-width: 0 15px 15px;
+    border-color: #f1f2f2 transparent;
+}
+
+.testimonial-triangle-isosceles .testimonial-footer {
+    padding: 10px 0 0 55px;
+}
+
+    .testimonial-triangle-isosceles .testimonial-footer img {
+        float: left;
+        margin: -10px 20px 0 0;
+    }
+
+    .testimonial-triangle-isosceles .testimonial-footer a {
+        display: block;
+        margin-top: 0;
+        margin-left: 0;
+        height: 30px;
+    }
+
+.testimonial-triangle-isosceles-has-bg.bottom-center .testimonial-footer {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+}
+
+    .testimonial-triangle-isosceles-has-bg.bottom-center .testimonial-footer img {
+        margin: 0 auto 10px auto;
+    }
+
+    .testimonial-triangle-isosceles-has-bg.bottom-center .testimonial-footer a {
+        display: block;
+        margin-top: 5px;
+    }
+
+.testimonial-triangle-isosceles.top .testimonial-header {
+    padding-top: 10px;
+    padding-right: 55px;
+    text-align: right;
+}
+
+    .testimonial-triangle-isosceles.top .testimonial-header img {
+        float: right;
+        margin: -10px 0 0 20px;
+    }
+
+    .testimonial-triangle-isosceles.top .testimonial-header a {
+        display: block;
+        margin-top: 0;
+        margin-left: 0;
+        height: 30px;
+    }
+
+    .testimonial-triangle-isosceles.top .testimonial-header i {
+        float: right;
+        margin-left: 10px;
+    }
+
+
+
+
+
+
+
+
+
+/* Form Control */
         .contacts-container{
             min-height:80vh;
             width:100%;
         }
 
-        /* Form Control */
+
 .col-field {
     padding: 0 5px;
 }

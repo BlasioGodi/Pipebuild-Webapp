@@ -4409,6 +4409,14 @@
       "PackagePath": "staticwebassets\\lib\\slider\\slider-swipe.js"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Pic-1.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\Pic-1.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Pic-2.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\Pic-2.jpg"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Plumb-01.jpg",
       "PackagePath": "staticwebassets\\src\\img\\slider\\Plumb-01.jpg"
     },
@@ -4435,6 +4443,10 @@
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Plumb-07.jpg",
       "PackagePath": "staticwebassets\\src\\img\\slider\\Plumb-07.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Team-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\Team-01.jpg"
     },
     {
       "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.PipeBuild.Microsoft.AspNetCore.StaticWebAssets.props",

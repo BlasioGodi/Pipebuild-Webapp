@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4N85ABDEdl/k/p+jhjZWYQktvvingCKGE82ddzM746I=",
+  "Hash": "tayM2tt9lieZW+AHGRw3oZGW0yGO9NCak4dD/Yohz+M=",
   "Source": "PipeBuild",
   "BasePath": "_content/PipeBuild",
   "Mode": "Default",
@@ -18768,6 +18768,40 @@
       "OriginalItemSpec": "wwwroot\\lib\\slider\\slider-swipe.js"
     },
     {
+      "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Pic-1.jpg",
+      "SourceId": "PipeBuild",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\",
+      "BasePath": "_content/PipeBuild",
+      "RelativePath": "src/img/slider/Pic-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\img\\slider\\Pic-1.jpg"
+    },
+    {
+      "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Pic-2.jpg",
+      "SourceId": "PipeBuild",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\",
+      "BasePath": "_content/PipeBuild",
+      "RelativePath": "src/img/slider/Pic-2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\img\\slider\\Pic-2.jpg"
+    },
+    {
       "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Plumb-01.jpg",
       "SourceId": "PipeBuild",
       "SourceType": "Discovered",
@@ -18885,6 +18919,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\src\\img\\slider\\Plumb-07.jpg"
+    },
+    {
+      "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Team-01.jpg",
+      "SourceId": "PipeBuild",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\",
+      "BasePath": "_content/PipeBuild",
+      "RelativePath": "src/img/slider/Team-01.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\img\\slider\\Team-01.jpg"
     }
   ]
 }
