@@ -4417,6 +4417,10 @@
       "PackagePath": "staticwebassets\\src\\img\\slider\\Pic-2.jpg"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Pipebuild-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\slider\\Pipebuild-01.jpg"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Plumb-01.jpg",
       "PackagePath": "staticwebassets\\src\\img\\slider\\Plumb-01.jpg"
     },
@@ -4447,6 +4451,38 @@
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Team-01.jpg",
       "PackagePath": "staticwebassets\\src\\img\\slider\\Team-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_114.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_114.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_32.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_32.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_64.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_64.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_72.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_72.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-Logo_114.jpg",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-Logo_114.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-Logo_32.jpg",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-Logo_32.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-Logo_64.jpg",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-Logo_64.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-Logo_72.jpg",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-Logo_72.jpg"
     },
     {
       "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.PipeBuild.Microsoft.AspNetCore.StaticWebAssets.props",
