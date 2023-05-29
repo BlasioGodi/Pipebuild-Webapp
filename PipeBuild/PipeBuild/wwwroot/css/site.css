@@ -29,12 +29,13 @@
 
   3.  Main
 
-      3.1 Slider
+      3.1 Section
+      3.2 Revolution Slider
 
   4.  About
 
       4.1 Services
-      4.1 Object map
+      4.2. Swiper
 
   5.  Projects
 
@@ -62,10 +63,11 @@
       
   11. Responsive styles
 
-      11.1 Min width: 768px
-      11.2 Min width 992px
-      11.3 Min width 1200px 
-      11.4 Max height 480px
+      11.1 Max height 480px 
+      11.2 Min width: 576px
+      11.3 Min width: 768px
+      11.4 Min width 992px
+      11.5 Min width 1200px 
 /*-------------------------------------------------------------------------------
   1. Global
 -------------------------------------------------------------------------------*/
@@ -352,7 +354,7 @@ label {
   3. Main
 -------------------------------------------------------------------------------*/
 
-/* Section */
+/* 3.1 Section */
 
 .section {
   position: relative;
@@ -372,6 +374,54 @@ label {
   font-family: "Anton", sans-serif;
   font-size: 1rem;
 }
+
+/* 3.2 Revolution Slider */
+
+.lyr3 {
+    color: #ffffff;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 72px;
+    text-align: left !important;
+}
+
+.lyr4 {
+    font-weight: 400;
+    color: #fff;
+    font-size: 22px;
+    text-transform: uppercase;
+    text-align: left !important;
+}
+
+.lyr5 {
+    font-size: 16px;
+}
+
+/*-------------------------------------------------------------------------------
+  4. About
+-------------------------------------------------------------------------------*/
+/* 4.1 Services */
+
+/* 4.2 Swiper */
+.swiper {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -150px;
+    margin-top: -150px;
+}
+
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+}
+
+    .swiper-slide img {
+        display: block;
+        width: 100%;
+    }
 
 /*-------------------------------------------------------------------------------
   6. Team
@@ -1065,35 +1115,93 @@ footer .no-icon-list:last-child a:hover {
   -o-transition: all 0.17s ease-in-out;
 }
 
-.swiper {
-  width: 300px;
-  height: 300px;
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  margin-left: -150px;
-  margin-top: -150px;
-}
-
-.swiper-slide {
-  background-position: center;
-  background-size: cover;
-}
-
-.swiper-slide img {
-  display: block;
-  width: 100%;
-}
-
 /*-------------------------------------------------------------------------------
   11. Responsive Styles
 -------------------------------------------------------------------------------*/
 
-/* 11.1 Min width: 768px */
+/* 11.1 Max height 480px */
+@media (max-width: 480px) {
+    .lyr3 {
+        font-size: 35px !important;
+        line-height: 40px !important;
+        padding: 50px 0px 12px !important;
+    }
 
-/* 11.2 Min width 992px */
-/* 11.3 Min width 1200px */
-/* 11.4 Max height 480px */ 
+    .lyr4 {
+        font-size: 16px !important;
+        padding: 4px 0px !important;
+    }
+
+    .lyr5 {
+        font-size: 16px !important;
+        padding: 10px 20px 12px !important;
+    }
+}
+
+/* 11.2 Min-width: 576px */
+@media(min-width:576px){
+    .lyr3 {
+        font-size: 45px !important;
+        line-height: 50px !important;
+    }
+    .lyr4 {
+        font-size: 20px !important;
+        padding: 6px 0px !important;
+    }
+
+    .lyr5 {
+        font-size: 16px !important;
+    }
+}
+
+/* 11.3 Min width: 768px */
+@media (min-width: 768px) {
+    .lyr3 {
+        font-size: 55px !important;
+        line-height: 60px !important;
+    }
+    .lyr4 {
+        font-size: 24px !important;
+        padding: 8px 0px !important;
+    }
+    .lyr5 {
+        font-size: 18px !important;
+    }
+}
+
+/* 11.4 Min width 992px */
+@media (min-width: 992px) {
+    .lyr3 br {
+        display: block !important;
+    }
+    .lyr3 {
+        font-size: 65px !important;
+        line-height: 70px !important;
+    }
+    lyr4 {
+        font-size: 28px !important;
+        padding: 12px 0 !important;
+    }
+    .lyr5 {
+        font-size: 20px !important;
+    }
+}
+
+/* 11.5 Min width 1200px */
+@media (min-width: 1200px){
+    .lyr3 br {
+        display: block !important;
+    }
+    .lyr4 {
+        font-size: 30px !important;
+        padding: 16px 0 !important;
+    }
+    .lyr5 {
+        font-size: 22px !important;
+    }
+}
+
+
 
 
 
