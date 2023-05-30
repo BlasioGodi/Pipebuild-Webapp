@@ -76,6 +76,7 @@
 
 @import url("../lib/node_modules/font-awesome/css/font-awesome.css");
 @import url("https://fonts.googleapis.com/css2?family=Anton&family=Domine:wght@400;500;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
 
 ::-webkit-scrollbar {
   width: 8px;
@@ -110,11 +111,12 @@
 /* 1.2 Typography */
 
 :root {
-  --bs-title-font-family: "Anton", sans-serif;
-  --font-family: "Domine", serif;
-  --text-color-red: red;
-  --text-color-blue: #1da1f2;
-  --theme-color: rgb(73, 132, 184);
+    --bs-title-font-family: "Anton", sans-serif;
+    --bs-alt-body-family: 'Cinzel', serif;
+    --font-family: "Domine", serif;
+    --text-color-red: red;
+    --text-color-blue: #1da1f2;
+    --theme-color: rgb(73, 132, 184);
 }
 
 ul {
@@ -384,6 +386,7 @@ label {
     color: #ffffff;
     font-size: 72px;
     font-weight: 700;
+    font-family: var(--bs-alt-body-family);
     line-height: 72px;
     text-align: left !important;
 }
