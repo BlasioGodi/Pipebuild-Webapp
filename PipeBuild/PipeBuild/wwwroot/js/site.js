@@ -189,70 +189,17 @@ var Pipebuild = {
 };
 
 $(document).ready(function () {
+
     Pipebuild.init();
 
-    /* Hero Case Study Hover Effect */
+    $(window).scroll(function () {
+        var scroll = $(window).scrollTop();
 
-    $('.case-study-name:nth-child(1)').on('mouseenter touchstart', function () {
-        $('.case-study-name.active').removeClass('active');
-        $('.case-study-images li.show').removeClass("show");
-        $('.case-study-images li:nth-child(1)').addClass("show");
-        $('.case-study-name:nth-child(1)').addClass('active');
-    })
-    $('.case-study-name:nth-child(2)').on('mouseenter touchstart', function () {
-        $('.case-study-name.active').removeClass('active');
-        $('.case-study-images li.show').removeClass("show");
-        $('.case-study-images li:nth-child(2)').addClass("show");
-        $('.case-study-name:nth-child(2)').addClass('active');
-    })
-    $('.case-study-name:nth-child(3)').on('mouseenter touchstart', function () {
-        $('.case-study-name.active').removeClass('active');
-        $('.case-study-images li.show').removeClass("show");
-        $('.case-study-images li:nth-child(3)').addClass("show");
-        $('.case-study-name:nth-child(3)').addClass('active');
-    })
-    $('.case-study-name:nth-child(4)').on('mouseenter touchstart', function () {
-        $('.case-study-name.active').removeClass('active');
-        $('.case-study-images li.show').removeClass("show");
-        $('.case-study-images li:nth-child(4)').addClass("show");
-        $('.case-study-name:nth-child(4)').addClass('active');
-    })
-    $('.case-study-name:nth-child(5)').on('mouseenter touchstart', function () {
-        $('.case-study-name.active').removeClass('active');
-        $('.case-study-images li.show').removeClass("show");
-        $('.case-study-images li:nth-child(5)').addClass("show");
-        $('.case-study-name:nth-child(5)').addClass('active');
-    })
-
-    $('.case-study-name:nth-child(6)').on('mouseenter touchstart', function () {
-        $('.case-study-name.active').removeClass('active');
-        $('.case-study-images li.show').removeClass("show");
-        $('.case-study-images li:nth-child(6)').addClass("show");
-        $('.case-study-name:nth-child(6)').addClass('active');
-    })
-    $('.case-study-name:nth-child(7)').on('mouseenter touchstart', function () {
-        $('.case-study-name.active').removeClass('active');
-        $('.case-study-images li.show').removeClass("show");
-        $('.case-study-images li:nth-child(7)').addClass("show");
-        $('.case-study-name:nth-child(7)').addClass('active');
-    })
-    $('.case-study-name:nth-child(8)').on('mouseenter touchstart', function () {
-        $('.case-study-name.active').removeClass('active');
-        $('.case-study-images li.show').removeClass("show");
-        $('.case-study-images li:nth-child(8)').addClass("show");
-        $('.case-study-name:nth-child(8)').addClass('active');
-    })
-    $('.case-study-name:nth-child(9)').on('mouseenter touchstart', function () {
-        $('.case-study-name.active').removeClass('active');
-        $('.case-study-images li.show').removeClass("show");
-        $('.case-study-images li:nth-child(9)').addClass("show");
-        $('.case-study-name:nth-child(9)').addClass('active');
-    })
-    $('.case-study-name:nth-child(10)').on('mouseenter touchstart', function () {
-        $('.case-study-name.active').removeClass('active');
-        $('.case-study-images li.show').removeClass("show");
-        $('.case-study-images li:nth-child(10)').addClass("show");
-        $('.case-study-name:nth-child(10)').addClass('active');
-    })
-    $('.case-study-name:nth-child(1)').trigger('mouseenter')
+        if (scroll >= 100) {
+            $('.navbar').addClass('sticky-top');
+        } else {
+            $('.navbar').removeClass('sticky');
+        }
+    });
 });
+

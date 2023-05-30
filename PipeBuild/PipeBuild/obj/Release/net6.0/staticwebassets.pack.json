@@ -261,6 +261,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\jquery\\dist\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.sticky.js"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\.package-lock.json",
       "PackagePath": "staticwebassets\\lib\\node_modules\\.package-lock.json"
     },
@@ -4461,6 +4465,10 @@
       "PackagePath": "staticwebassets\\src\\logos\\PB-01_32.png"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_48.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_48.png"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_64.png",
       "PackagePath": "staticwebassets\\src\\logos\\PB-01_64.png"
     },
@@ -4483,6 +4491,94 @@
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-Logo_72.jpg",
       "PackagePath": "staticwebassets\\src\\logos\\PB-Logo_72.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-01.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-02.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-02.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-03.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-03.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-04.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-04.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-05.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-05.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-06.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-06.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-07.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-07.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-08.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-08.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-09.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-09.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-10.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-10.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-11.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-11.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-12.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-12.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-13.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-13.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-14.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-14.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-15.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-15.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-16.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-16.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-17.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-17.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-18.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-18.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-19.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-19.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-20.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-20.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-21.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-21.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-22.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-22.jpg"
     },
     {
       "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.PipeBuild.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -433,20 +433,34 @@ $darken-primary: darken(crimson, 30%);
 
 $card-primary-color: white;
 
+.navbar-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 20;
+    margin-top: 20px;
+}
+
 .navbar-custom {
-  @extend .navbar;
-  border-radius: 20px;
-  position: absolute;
-  top: 2%;
-  left: 10%;
-  width: 80%;
-  border-radius: 25px;
-  background-image: linear-gradient(
-    to right,
-    $nav-primary-bg-1,
-    $nav-primary-bg
-  );
-  color: $nav-primary-color;
+    @extend .navbar;
+    background-image: linear-gradient( to right, $nav-primary-bg-1, $nav-primary-bg );
+    color: $nav-primary-color;
+    background-color: transparent;
+    padding: 5px 20px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    transition: background .5s ease-in-out,padding .5s ease-in-out;
+}
+
+.nav-sticky {
+    position: fixed;
+    top: 0;
+    z-index: 999;
+    /* Additional styling for the sticky navbar */
 }
 
 .nav-link-active {

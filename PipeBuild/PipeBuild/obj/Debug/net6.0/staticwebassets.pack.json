@@ -261,6 +261,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\jquery\\dist\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.sticky.js"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\.package-lock.json",
       "PackagePath": "staticwebassets\\lib\\node_modules\\.package-lock.json"
     },
@@ -4459,6 +4463,10 @@
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_32.png",
       "PackagePath": "staticwebassets\\src\\logos\\PB-01_32.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_48.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_48.png"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_64.png",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "H5tGkCAotZ3s/n5XvxgUi9vGeRbJHZNgBuf6dOWTpMY=",
+  "Hash": "KEaCpTV64rDzJ1eoyrh/cscQgLGna7zhKB6g5q5Jm2w=",
   "Source": "PipeBuild",
   "BasePath": "_content/PipeBuild",
   "Mode": "Default",
@@ -984,6 +984,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\jquery\\dist\\jquery.sticky.js",
+      "SourceId": "PipeBuild",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\",
+      "BasePath": "_content/PipeBuild",
+      "RelativePath": "lib/jquery/dist/jquery.sticky.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.sticky.js"
     },
     {
       "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\jquery\\LICENSE.txt",
@@ -18987,6 +19004,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\src\\logos\\PB-01_32.png"
+    },
+    {
+      "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_48.png",
+      "SourceId": "PipeBuild",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\",
+      "BasePath": "_content/PipeBuild",
+      "RelativePath": "src/logos/PB-01_48.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\logos\\PB-01_48.png"
     },
     {
       "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_64.png",

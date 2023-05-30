@@ -11014,15 +11014,33 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-.navbar-custom {
-  border-radius: 20px;
+.navbar-container {
   position: absolute;
-  top: 2%;
-  left: 10%;
-  width: 80%;
-  border-radius: 25px;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+  margin-top: 20px;
+}
+
+.navbar-custom {
   background-image: linear-gradient(to right, #1d354b, rgb(73, 132, 184));
   color: white;
+  background-color: transparent;
+  padding: 5px 20px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+  -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+  transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+}
+
+.nav-sticky {
+  position: fixed;
+  top: 0;
+  z-index: 999;
+  /* Additional styling for the sticky navbar */
 }
 
 .nav-link-active {
