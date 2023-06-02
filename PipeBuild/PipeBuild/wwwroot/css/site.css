@@ -75,8 +75,7 @@
 /* 1.1 General */
 
 @import url("../lib/node_modules/font-awesome/css/font-awesome.css");
-@import url("https://fonts.googleapis.com/css2?family=Anton&family=Domine:wght@400;500;600;700&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Unna:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 ::-webkit-scrollbar {
   width: 8px;
@@ -111,9 +110,10 @@
 /* 1.2 Typography */
 
 :root {
-    --bs-title-font-family: "Anton", sans-serif;
-    --bs-alt-body-family: 'Cinzel', serif;
-    --font-family: "Domine", serif;
+    --bs-title-font-family: 'Cinzel', serif;
+    --bs-header-font-family: 'Unna', serif;
+    --bs-body-font-family: 'Unna', serif;
+    --font-family: 'Unna', serif;
     --text-color-red: red;
     --text-color-blue: #1da1f2;
     --theme-color: rgb(73, 132, 184);
@@ -131,12 +131,12 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  transition: all 0.17s ease-in-out;
-  -moz-transition: all 0.17s ease-in-out;
-  -webkit-transition: all 0.17s ease-in-out;
-  -o-transition: all 0.17s ease-in-out;
-}
+    a:hover {
+        transition: all 0.17s ease-in-out;
+        -moz-transition: all 0.17s ease-in-out;
+        -webkit-transition: all 0.17s ease-in-out;
+        -o-transition: all 0.17s ease-in-out;
+    }
 
 input::placeholder {
   color: white;
@@ -155,7 +155,7 @@ label {
 .social-title {
   font-family: var(--bs-title-font-family);
   font-size: 1.2em;
-  font-weight: 400;
+  font-weight: 700;
 }
 
 .social-list {
@@ -367,17 +367,17 @@ label {
 }
 
 .paragraph-title {
-  font-family: "Domine", serif;
+  font-family: var(--bs-header-font-family);
   font-size: 1.5rem;
 }
 .paragraph-text {
-  font-family: "Domine", serif;
-  font-size: 1rem;
+    font-family: var(--bs-body-font-family);
+    font-size: 1.2rem;
 }
 
 .paragraph-footer {
-  font-family: "Anton", sans-serif;
-  font-size: 1rem;
+  font-family: var(--bs-title-font-family);
+  font-size: 1.2rem;
 }
 
 /* 3.2 Revolution Slider */
@@ -385,17 +385,18 @@ label {
 .lyr3 {
     color: #ffffff;
     font-size: 72px;
-    font-weight: 700;
-    font-family: var(--bs-alt-body-family);
+    font-weight: 800;
+    font-family: var(--bs-title-font-family);
     line-height: 72px;
     text-align: left !important;
 }
 
 .lyr4 {
-    font-weight: 400;
+    font-family:var(--bs-body-font-family);
+    font-weight:400;
+    font-style:italic;
     color: #fff;
     font-size: 22px;
-    text-transform: uppercase;
     text-align: left !important;
 }
 
@@ -1021,7 +1022,7 @@ textarea.form-control {
 
 .footer {
   font-family: var(--font-family);
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 
 .footer-priv {
@@ -1035,7 +1036,7 @@ textarea.form-control {
 
 .list-title {
   font-family: var(--bs-title-font-family);
-  font-weight: 500;
+  font-weight: 700;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -1113,13 +1114,13 @@ footer .no-icon-list:last-child a {
   text-decoration: none;
 }
 
-footer .no-icon-list:last-child a:hover {
-  color: blue;
-  transition: all 0.17s ease-in-out;
-  -moz-transition: all 0.17s ease-in-out;
-  -webkit-transition: all 0.17s ease-in-out;
-  -o-transition: all 0.17s ease-in-out;
-}
+    footer .no-icon-list:last-child a:hover {
+        color: rgb(73, 132, 184);
+        transition: all 0.17s ease-in-out;
+        -moz-transition: all 0.17s ease-in-out;
+        -webkit-transition: all 0.17s ease-in-out;
+        -o-transition: all 0.17s ease-in-out;
+    }
 
 /*-------------------------------------------------------------------------------
   11. Responsive Styles
