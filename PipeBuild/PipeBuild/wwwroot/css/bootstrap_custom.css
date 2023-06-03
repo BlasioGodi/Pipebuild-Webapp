@@ -11014,6 +11014,12 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+:root {
+  --bs-title-font-family: "Cinzel", serif;
+  --bs-header-font-family: "Unna", serif;
+  --bs-body-font-family: "Unna", serif;
+}
+
 .navbar-container {
   position: absolute;
   top: 0;
@@ -11046,7 +11052,8 @@ textarea.form-control-lg {
 .nav-link-active {
   border-radius: 20px;
   color: white;
-  font-family: "Domine", serif;
+  font-family: var(--bs-body-font-family);
+  font-size: 1.2rem;
 }
 .nav-link-active:hover, .nav-link-active:focus, .nav-link-active:active {
   background-color: #335d82;
