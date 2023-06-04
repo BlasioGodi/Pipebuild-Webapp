@@ -8,10 +8,11 @@
             type: 'image',
             removalDelay: 300,
             tLoading: 'Loading image #%curr%...',
+            tCounter: '<span class="mfp-counter">%curr% / %total%</span>',
             gallery: {
                 enabled: true,
                 navigateByImgClick: true,
-                preload: [0, 1]
+                preload: [0,1]
             },
             image: {
                 tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',

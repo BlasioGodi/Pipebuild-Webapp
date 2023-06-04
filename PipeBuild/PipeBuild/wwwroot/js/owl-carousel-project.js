@@ -2,8 +2,9 @@
 //Owl Carousel
 $(document).ready(function () {
     $('.owl-carousel').owlCarousel({
-        initialSlide: 3,
-        loop: true,
+        startPosition: 3,
+        loop: false, 
+        rewind:true,
         margin: 10,
         responsiveClass: true,
         center: true,

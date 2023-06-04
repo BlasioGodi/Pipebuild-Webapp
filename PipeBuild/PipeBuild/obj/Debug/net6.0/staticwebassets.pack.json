@@ -4445,6 +4445,10 @@
       "PackagePath": "staticwebassets\\lib\\slider\\slider-swipe.js"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\Team-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\Team-01.jpg"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Pic-1.jpg",
       "PackagePath": "staticwebassets\\src\\img\\slider\\Pic-1.jpg"
     },
