@@ -11189,5 +11189,8 @@ textarea.form-control-lg {
     opacity: 1;
   }
 }
+.text-cus-blue {
+  color: rgb(73, 132, 184);
+}
 
 /*# sourceMappingURL=bootstrap_custom.css.map */

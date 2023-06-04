@@ -201,5 +201,7 @@ $(document).ready(function () {
             $('.navbar').removeClass('sticky');
         }
     });
+
 });
+
 

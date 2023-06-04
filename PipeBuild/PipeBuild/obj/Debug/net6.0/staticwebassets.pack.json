@@ -13,12 +13,36 @@
       "PackagePath": "staticwebassets\\css\\bootstrap_custom.css.map"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\owl.transitions.css",
+      "PackagePath": "staticwebassets\\css\\owl.transitions.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\projects-carousel.css",
+      "PackagePath": "staticwebassets\\css\\projects-carousel.css"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\interface.js",
+      "PackagePath": "staticwebassets\\js\\interface.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stellar.min.js"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\owl-carousel-project.js",
@@ -31,6 +55,10 @@
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -251,6 +279,10 @@
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\jquery\\dist\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.magnific-popup.js"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
