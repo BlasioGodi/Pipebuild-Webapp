@@ -485,6 +485,18 @@ $card-primary-color: white;
     }
 }
 
+.nav-link-mobile {
+    @extend .nav-link;
+
+    &:hover,
+    &:focus,
+    &:active {
+        background-color: darken($btn-primary-bg, 15%);
+        border-color: darken($btn-primary-border, 15%);
+        color: $btn-primary-color;
+    }
+}
+
 .card-no-bg {
   @extend .card;
   background-color: transparent;

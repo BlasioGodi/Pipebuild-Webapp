@@ -16,16 +16,16 @@
                     <a class="nav-link nav-link-active" aria-current="page" asp-area="" asp-page="/Index">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link nav-link-active" aria-current="page" asp-area="" asp-page="/About">About Us</a>
+                    <a class="nav-link nav-link-active " aria-current="page" asp-area="" asp-page="/About">About Us</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link nav-link-active" aria-current="page" asp-area="" asp-page="/Services">Our Services</a>
+                    <a class="nav-link nav-link-active " aria-current="page" asp-area="" asp-page="/Services">Our Services</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link nav-link-active" aria-current="page" asp-area="" asp-page="/Projects">Our Projects</a>
+                    <a class="nav-link nav-link-active " aria-current="page" asp-area="" asp-page="/Projects">Our Projects</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link nav-link-active" aria-current="page" asp-area="" asp-page="/Contact">Contact Us</a>
+                    <a class="nav-link nav-link-active " aria-current="page" asp-area="" asp-page="/Contact">Contact Us</a>
                 </li>
             </ul>
         </div>
@@ -46,39 +46,43 @@
     <div class="offcanvas-body">
         <ul class="navbar-nav justify-content-center me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                <a class="nav-link-mobile" aria-current="page" asp-area="" asp-page="/Index">Home</a>
             </li>
             <li class="nav-item">
-                <button class="btn btn-secondary bg-dark" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#collapseXauman" aria-expanded="false" aria-controls="collapseXauman">
-                    Share on Social Media
-                </button>
-                <div class="collapse bg-black" id="collapseXauman">
-                    <ul class="social-list vertical">
+                <a class="nav-link-mobile " aria-current="page" asp-area="" asp-page="/About">About Us</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link-mobile " aria-current="page" asp-area="" asp-page="/Services">Our Services</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link-mobile" data-bs-toggle="collapse"
+                   data-bs-target="#collapseProjects" aria-expanded="false" aria-controls="collapseProjects" href="#">
+                    Our Projects
+                </a>
+                <div class="collapse" id="collapseProjects">
+                    <ul>
                         <li class="border-bottom border-secondary mx-3 my-2">
-                            <a target="_blank" rel="noopener noreferrer" class="social-list-facebook"
-                               href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fxauman.com"
-                               aria-label="facebook follow button"><i class="fa fa-facebook align-middle"></i>Facebook</a>
+                            <a target="_blank" rel="noopener noreferrer" class="nav-link"
+                               href="#">Projects-1</a>
                         </li>
                         <li class="border-bottom border-secondary mx-3 my-2">
-                            <a target="_blank" rel="noopener noreferrer" class="social-list-twitter"
-                               href="https://twitter.com/intent/tweet?text=We%20are%20seasoned%20Gold%20Forex%20Traders%20helping%20individuals%20and%20institutions%20meet%20and%20surpass%20their%20financial%20goals.%20%20https://xauman.com/"
-                               aria-label="twitter follow button"><i class="fa fa-twitter align-middle"></i>Twitter</a>
+                            <a target="_blank" rel="noopener noreferrer" class="nav-link"
+                               href="#">Projects-2</a>
                         </li>
                         <li class="border-bottom border-secondary mx-3 my-2">
-                            <a target="_blank" rel="noopener noreferrer" class="social-list-whatsapp"
-                               href="whatsapp://send?text=We%20are%20seasoned%20Gold%20Forex%20Traders%20helping%20individuals%20and%20institutions%20meet%20and%20surpass%20their%20financial%20goals.%20https://xauman.com/"
-                               aria-label="whatsapp follow button"><i class="fa fa-whatsapp align-middle"></i>Whatsapp</a>
+                            <a target="_blank" rel="noopener noreferrer" class="nav-link"
+                               href="#">Projects-3</a>
                         </li>
-                        <li class="mx-3 my-2">
-                            <a target="_blank" rel="noopener noreferrer" class="social-list-telegram"
-                               href="https://t.me/share/url?url=https://xauman.com/&text=We are seasoned Gold Forex Traders helping individuals and institutions meet and surpass their financial goals."
-                               aria-label="telegram follow button"><i class="fa fa-telegram align-middle"></i>Telegram</a>
+                        <li class="border-bottom border-secondary mx-3 my-2">
+                            <a target="_blank" rel="noopener noreferrer" class="nav-link"
+                               href="#">Projects-4</a>
                         </li>
                     </ul>
                 </div>
             </li>
+            <li class="nav-item">
+                <a class="nav-link-mobile " aria-current="page" asp-area="" asp-page="/Contact">Contact Us</a>
+            </li>
         </ul>
-        <span class="navbar-brand"> Coming soon!! </span>
     </div>
 </div>
