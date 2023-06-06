@@ -318,6 +318,7 @@ $theme-colors: (
 // scss-docs-start position-map
 $position-values: (
   0: 0,
+5:5%,
   10: 10%,
   20: 20%,
   30: 30%,
@@ -471,7 +472,7 @@ $card-primary-color: white;
 
 .nav-link-active {
     @extend .nav-link;
-    border-radius: 20px;
+    border-radius: 10px;
     color: white;
     font-family: var(--bs-body-font-family);
     font-size:1.2rem;
@@ -494,7 +495,15 @@ $card-primary-color: white;
         background-color: darken($btn-primary-bg, 15%);
         border-color: darken($btn-primary-border, 15%);
         color: $btn-primary-color;
-    }
+    } 
+}
+
+.nav-link-brand{
+    @extend .nav-link;
+    font-size:1.3rem;
+    font-family:var(--bs-title-font-family);
+    font-weight: 800;
+    color: white;
 }
 
 .card-no-bg {

@@ -20,8 +20,49 @@
                     return item.el.attr('title') + '<small></small>';
                 }
             }
-
         });
     });
 
+/* Affix Desktop */
+	navbarDesktop.affix({
+		offset: {
+			top: 200
+		}
+	});
+
+	navbarDesktop.on('affix.bs.affix', function () {
+		if (!navbarDesktop.hasClass('affix')) {
+			navbarDesktop.addClass('animated slideInDown');
+		}
+	});
+
+	navbarDesktop.on('affix-top.bs.affix', function () {
+		navbarDesktop.removeClass('animated slideInDown');
+		$('.navbar-collapse').collapse('hide');
+	});
+
+
+/* Affix Mobile  */
+	navbarMobile.affix({
+		offset: {
+			top: 1
+		}
+	});
+
+	navbarMobile.on('affix.bs.affix', function () {
+		if (!navbarMobile.hasClass('affix')) {
+			navbarMobile.addClass('animated slideInDown');
+		}
+	});
+
+	navbarMobile.on('affixed-top.bs.affix', function () {
+		navbarMobile.removeClass('animated slideInDown');
+
+	});
+
+	$('.navbar-nav-mobile li a[href="#"]').on('click', function () {
+		$(this).closest('li').toggleClass('current');
+		$(this).closest('li').find('ul').slideToggle(200);
+		return false;
+	});
 })(jQuery);

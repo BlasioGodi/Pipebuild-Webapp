@@ -192,14 +192,17 @@ $(document).ready(function () {
 
     Pipebuild.init();
 
-    $(window).scroll(function () {
-        var scroll = $(window).scrollTop();
-
-        if (scroll >= 100) {
-            $('.navbar').addClass('sticky-top');
-        } else {
-            $('.navbar').removeClass('sticky');
-        }
+    /* --------------------------------------------
+     STICKY SETTING
+    -------------------------------------------- */
+    $(function () {
+        "use strict";
+        if ($(".navbar-sticky").length > 0) {
+            $(".navbar-sticky").sticky({ topSpacing: 0 });
+            $(".navbar-sticky").css('z-index', '100');
+            $(".navbar-sticky").addClass('bg-light');
+            $(".navbar-sticky").addClass("top-nav-collapse");
+        };
     });
 
 });

@@ -75,6 +75,7 @@
 /* 1.1 General */
 
 @import url("../lib/node_modules/font-awesome/css/font-awesome.css");
+@import url("../css/animate.css");
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Unna:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 ::-webkit-scrollbar {
@@ -355,6 +356,35 @@ label {
 /*-------------------------------------------------------------------------------
 2. Header
 -------------------------------------------------------------------------------*/
+
+/* 2.4 Navbar Desktop Affix */
+
+.navbar-desktop.affix {
+    position: fixed;
+    z-index: 5;
+    top: 0;
+    background-color: rgba(50, 50, 50, 0.95);
+    padding: 1.3em 0 0;
+    box-shadow: 0 0 35px rgba(0, 0, 0, 0.1);
+}
+
+    .navbar-desktop.affix.affix-top {
+        padding-top: 2.2em;
+    }
+
+    .navbar-desktop.affix .brand {
+        display: inline-block;
+    }
+
+    .navbar-desktop.affix .navbar-desktop-menu li a {
+        color: #fff;
+    }
+
+    .navbar-desktop.affix .navbar-desktop-menu li > a:hover,
+    .navbar-desktop.affix .navbar-desktop-menu .active > a {
+        color: rgba(255, 144, 76, 0.95);
+    }
+
 /* 2.5 Navbar Mobile */
 .navbar-img {
     width:100%;
