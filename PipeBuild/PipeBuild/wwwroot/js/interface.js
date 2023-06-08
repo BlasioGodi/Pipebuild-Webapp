@@ -1,6 +1,19 @@
 ﻿(function ($) {
     'use strict';
 
+	/* Detect Mobile Device  */
+	var mobileDevice = false;
+
+	if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+		$('html').addClass('mobile');
+		mobileDevice = true;
+	}
+
+	else {
+		$('html').addClass('no-mobile');
+		mobileDevice = false;
+	}
+
     /* Projects Gallery  */
     $('.projects-gallery').each(function () {
         $(this).magnificPopup({
@@ -21,48 +34,5 @@
                 }
             }
         });
-    });
-
-/* Affix Desktop */
-	navbarDesktop.affix({
-		offset: {
-			top: 200
-		}
-	});
-
-	navbarDesktop.on('affix.bs.affix', function () {
-		if (!navbarDesktop.hasClass('affix')) {
-			navbarDesktop.addClass('animated slideInDown');
-		}
-	});
-
-	navbarDesktop.on('affix-top.bs.affix', function () {
-		navbarDesktop.removeClass('animated slideInDown');
-		$('.navbar-collapse').collapse('hide');
-	});
-
-
-/* Affix Mobile  */
-	navbarMobile.affix({
-		offset: {
-			top: 1
-		}
-	});
-
-	navbarMobile.on('affix.bs.affix', function () {
-		if (!navbarMobile.hasClass('affix')) {
-			navbarMobile.addClass('animated slideInDown');
-		}
-	});
-
-	navbarMobile.on('affixed-top.bs.affix', function () {
-		navbarMobile.removeClass('animated slideInDown');
-
-	});
-
-	$('.navbar-nav-mobile li a[href="#"]').on('click', function () {
-		$(this).closest('li').toggleClass('current');
-		$(this).closest('li').find('ul').slideToggle(200);
-		return false;
 	});
 })(jQuery);

@@ -451,7 +451,7 @@ $card-primary-color: white;
 
 .navbar-custom {
     @extend .navbar;
-    background-image: linear-gradient( to right, $nav-primary-bg-1, $nav-primary-bg );
+    background-image: linear-gradient( to right, $nav-primary-bg, $nav-primary-bg-1 );
     color: $nav-primary-color;
     background-color: transparent;
     padding: 5px 20px;

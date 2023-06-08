@@ -11054,7 +11054,7 @@ textarea.form-control-lg {
 }
 
 .navbar-custom {
-  background-image: linear-gradient(to right, #1d354b, rgb(73, 132, 184));
+  background-image: linear-gradient(to right, rgb(73, 132, 184), #1d354b);
   color: white;
   background-color: transparent;
   padding: 5px 20px;
