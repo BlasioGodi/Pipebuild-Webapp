@@ -551,7 +551,7 @@ label {
     width: 100%;
     padding: 130px 0;
     position: relative;
-    z-index: 99;
+    z-index: 0;
 }
 
     .block.no-padding {

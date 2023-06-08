@@ -84,8 +84,6 @@ for (const key in buttons) {
     }
 }
 
-
-
 var Pipebuild = {
     init: function () {
         this.Component.init();
@@ -96,26 +94,26 @@ var Pipebuild = {
         },
         forms: function () {
 
-            /* Validate Form */
-            $('.js-ajax-form').each(function () {
-                $(this).validate({
-                    validClass: 'valid',
-                    errorClass: 'error',
-                    errorClass: 'error wobble-error',
-                    onfocusout: function (element, event) {
-                        $(element).valid();
-                    },
-                    errorPlacement: function (error, element) {
-                        return true;
-                    },
-                    rules: {
-                        email: {
-                            required: true,
-                            email: true
-                        }
-                    }
-                });
-            });
+            ///* Validate Form */
+            //$('.js-ajax-form').each(function () {
+            //    $(this).validate({
+            //        validClass: 'valid',
+            //        errorClass: 'error',
+            //        errorClass: 'error wobble-error',
+            //        onfocusout: function (element, event) {
+            //            $(element).valid();
+            //        },
+            //        errorPlacement: function (error, element) {
+            //            return true;
+            //        },
+            //        rules: {
+            //            email: {
+            //                required: true,
+            //                email: true
+            //            }
+            //        }
+            //    });
+            //});
 
             // Contact Form
             var $contactForm = $('#contact-form');
