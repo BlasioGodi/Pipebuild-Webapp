@@ -494,10 +494,10 @@ label {
 
 .lyr3 {
     color: #ffffff;
-    font-size: 72px;
+    font-size: 55px;
     font-weight: 800;
     font-family: var(--bs-title-font-family);
-    line-height: 72px;
+    line-height: 65px;
     text-align: left !important;
 }
 
@@ -506,7 +506,7 @@ label {
     font-weight:400;
     font-style:italic;
     color: #fff;
-    font-size: 22px;
+    font-size: 20px;
     text-align: left !important;
 }
 
@@ -1129,12 +1129,10 @@ textarea.form-control {
 .form-group {
     margin-bottom: 10px;
 }
+
 /* 9.3 Google Maps */
 .bg-map,
 .bg-map iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
     width: 100%;
     height: 100%;
     background-position: center center;
@@ -1329,15 +1327,15 @@ footer .no-icon-list:last-child a {
 /* 11.3 Min width: 768px */
 @media (min-width: 768px) {
     .lyr3 {
-        font-size: 55px !important;
-        line-height: 70px !important;
+        font-size: 50px !important;
+        line-height: 60px !important;
     }
     .lyr4 {
-        font-size: 24px !important;
+        font-size: 22px !important;
         padding: 8px 0px !important;
     }
     .lyr5 {
-        font-size: 18px !important;
+        font-size: 16px !important;
     }
     .navbar-img {
         width: 75%;
@@ -1350,15 +1348,15 @@ footer .no-icon-list:last-child a {
         display: block !important;
     }
     .lyr3 {
-        font-size: 65px !important;
-        line-height: 70px !important;
+        font-size: 50px !important;
+        line-height: 60px !important;
     }
     lyr4 {
-        font-size: 28px !important;
-        padding: 12px 0 !important;
+        font-size: 26px !important;
+        padding: 10px 0 !important;
     }
     .lyr5 {
-        font-size: 20px !important;
+        font-size: 18px !important;
     }
     .navbar-img {
         width: 85%;
@@ -1371,11 +1369,11 @@ footer .no-icon-list:last-child a {
         display: block !important;
     }
     .lyr4 {
-        font-size: 30px !important;
-        padding: 16px 0 !important;
+        font-size: 28px !important;
+        padding: 14px 0 !important;
     }
     .lyr5 {
-        font-size: 22px !important;
+        font-size: 20px !important;
     }
     .navbar-img {
         width: 100%;
