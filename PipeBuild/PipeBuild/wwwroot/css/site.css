@@ -50,6 +50,7 @@
   9.  Contacts
       9.1 Styling
       9.2 Forms
+      9.3 Contacts Page
   10. Footer
       10.1 Styling
       10.2 Drop-down Settings
@@ -1123,7 +1124,7 @@ textarea.form-control {
     margin-bottom: 10px;
 }
 
-/* 9.3 Google Maps */
+/* 9.3 Contacts Page*/
 .bg-map,
 .bg-map iframe {
     width: 100%;
@@ -1163,6 +1164,25 @@ textarea.form-control {
     .bg-map + * {
         position: relative;
     }
+
+.google-map{
+    min-height:40vh;
+}
+
+.card-text-title {
+    font-family: var(--bs-title-font-family);
+    font-size: 1.2rem;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.background-bg {
+    background: url("/src/img/slider/Plumb-01.jpg") no-repeat center center fixed;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    min-height: 50vh;
+}
 
 /*-------------------------------------------------------------------------------
   10. Footer
@@ -1212,6 +1232,7 @@ footer .col-footer .title i {
   #btn-close-3,
   #btn-close-4 {
     display: none;
+  }
   }
 }
 
@@ -1296,7 +1317,9 @@ footer .no-icon-list:last-child a {
     .navbar-img {
         width: 50%;
     }
-}
+    .google-map {
+        min-height: 80vh;
+    }
 
 /* 11.2 Min-width: 576px */
 @media(min-width:576px){
