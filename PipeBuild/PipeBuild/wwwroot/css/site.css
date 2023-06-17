@@ -12,7 +12,7 @@
       1.5 Icons
       1.6 Loader
       1.7 Social Media
-      1.8 Content Styles
+      1.8 Content Styling
       1.9 Main Carousel
 
   2.  Header 
@@ -346,6 +346,17 @@ label {
     color: #ee1d52;
     text-decoration: none;
 }
+
+/* 1.8 Content Styling */
+
+.section-about,
+.section-projects,
+.section-services,
+.section-privacy,
+.section-contacts{
+    position: relative;
+    min-height: 50vh;
+} 
 
 /*-------------------------------------------------------------------------------
 2. Header
@@ -909,11 +920,6 @@ label {
   9. Contacts
 -------------------------------------------------------------------------------*/
 /* 9.1 Styling */
-
-.section-contacts{
-    position: relative;
-    min-height: 50vh;
-} 
 
 .contacts-container {
     min-height: 80vh;
