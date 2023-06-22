@@ -34,27 +34,33 @@ and special architectural demands." />
     <link rel="apple-touch-icon" sizes="72x72" width="72px" height="72px" href="~/src/logos/PB-01_72.png" />
     <link rel="apple-touch-icon" sizes="114x114" width="114px" height="114px" href="~/src/logos/PB-01_114.png" />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Unna:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-
+    <!--Main Stylesheet-->
     <link rel="stylesheet" href="~/css/bootstrap_custom.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/PipeBuild.styles.css" asp-append-version="true" />
 
-    <!-- Revolution Style Sheets -->
+    <!--Font Stylesheet-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Unna:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link href="~/css/icon/et-line-font.css" rel="stylesheet" />
+
+    <!-- Animation Stylesheet -->
+    <link rel="stylesheet" href="~/css/animate.css" />
+    <!-- Revolution Stylesheet -->
     <link rel="stylesheet" type="text/css" href="~/lib/rev-slider/revolution/css/settings.css">
-    <!-- Revolution Layer Styles -->
+    <!-- Revolution Layer  Stylesheet -->
     <link rel="stylesheet" type="text/css" href="~/lib/rev-slider/revolution/css/layers.css">
-    <!-- Revolution Navigation Styles -->
+    <!-- Revolution Navigation  Stylesheet -->
     <link rel="stylesheet" type="text/css" href="~/lib/rev-slider/revolution/css/navigation.css">
-    <!-- Owl Carousel Styles -->
+    <!-- Owl Carousel Stylesheet -->
     <link href="~/lib/node_modules/owl.carousel/dist/assets/owl.carousel.min.css" rel="stylesheet" />
     <link href="~/lib/node_modules/owl.carousel/dist/assets/owl.theme.default.min.css" rel="stylesheet" />
     <link href="~/css/projects-carousel.css" rel="stylesheet" />
-
+    <!--Swiper Stylesheet-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
 </head>
+
 <body id="page-top" data-spy="scroll" data-target=".navbar" data-offset="100">
     @await Html.PartialAsync("_Header")
     <div class="layout">
@@ -72,6 +78,8 @@ and special architectural demands." />
     <script src="~/lib/node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     <script src="~/lib/jquery/dist/jquery.sticky.js"></script>
+    <script src="~/js/jquery.appear.js"></script>
+    <script src="~/js/jquery.countTo.js"></script>
 
     <!-- Owl Carousel Files -->
     <script src="~/lib/node_modules/owl.carousel/dist/owl.carousel.min.js"></script>
@@ -109,7 +117,7 @@ and special architectural demands." />
     <!-- Swiper JS -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
 
-    <!-- Initialize Swiper -->
+    <!-- Swiper Initialization -->
     <script>
         var swiper = new Swiper(".mySwiper", {
             effect: "cube",

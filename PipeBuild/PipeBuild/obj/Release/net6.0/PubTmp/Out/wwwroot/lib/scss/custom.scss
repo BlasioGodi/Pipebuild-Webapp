@@ -318,6 +318,7 @@ $theme-colors: (
 // scss-docs-start position-map
 $position-values: (
   0: 0,
+5:5%,
   10: 10%,
   20: 20%,
   30: 30%,
@@ -433,6 +434,12 @@ $darken-primary: darken(crimson, 30%);
 
 $card-primary-color: white;
 
+:root {
+    --bs-title-font-family: 'Cinzel', serif;
+    --bs-header-font-family: 'Unna', serif;
+    --bs-body-font-family: 'Unna', serif;
+}
+
 .navbar-container {
     position: absolute;
     top: 0;
@@ -444,7 +451,7 @@ $card-primary-color: white;
 
 .navbar-custom {
     @extend .navbar;
-    background-image: linear-gradient( to right, $nav-primary-bg-1, $nav-primary-bg );
+    background-image: linear-gradient( to right, $nav-primary-bg, $nav-primary-bg-1 );
     color: $nav-primary-color;
     background-color: transparent;
     padding: 5px 20px;
@@ -464,18 +471,39 @@ $card-primary-color: white;
 }
 
 .nav-link-active {
-  @extend .nav-link;
-  border-radius: 20px;
-  color: white;
-  font-family: "Domine", serif;
+    @extend .nav-link;
+    border-radius: 10px;
+    color: white;
+    font-family: var(--bs-body-font-family);
+    font-size:1.2rem;
 
-  &:hover,
-  &:focus,
-  &:active {
-    background-color: darken($btn-primary-bg, 15%);
-    border-color: darken($btn-primary-border, 15%);
-    color: $btn-primary-color;
-  }
+    &:hover,
+    &:focus,
+    &:active {
+        background-color: darken($btn-primary-bg, 15%);
+        border-color: darken($btn-primary-border, 15%);
+        color: $btn-primary-color;
+    }
+}
+
+.nav-link-mobile {
+    @extend .nav-link;
+
+    &:hover,
+    &:focus,
+    &:active {
+        background-color: darken($btn-primary-bg, 15%);
+        border-color: darken($btn-primary-border, 15%);
+        color: $btn-primary-color;
+    } 
+}
+
+.nav-link-brand{
+    @extend .nav-link;
+    font-size:1.3rem;
+    font-family:var(--bs-title-font-family);
+    font-weight: 800;
+    color: white;
 }
 
 .card-no-bg {
@@ -531,6 +559,17 @@ $card-primary-color: white;
 
 .bg-fixed {
   background-attachment: fixed;
+}
+.bg-greyed-out {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 0;
 }
 .bg-blue {
   background: #141e30; /* fallback for old browsers */
@@ -631,4 +670,8 @@ $card-primary-color: white;
   // .owl-nav .owl-next i {
   //   color: white;
   // }
+}
+
+.text-cus-blue{
+    color:$nav-primary-bg;
 }

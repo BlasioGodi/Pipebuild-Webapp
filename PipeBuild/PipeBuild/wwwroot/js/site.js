@@ -93,28 +93,6 @@ var Pipebuild = {
             this.forms();
         },
         forms: function () {
-
-            ///* Validate Form */
-            //$('.js-ajax-form').each(function () {
-            //    $(this).validate({
-            //        validClass: 'valid',
-            //        errorClass: 'error',
-            //        errorClass: 'error wobble-error',
-            //        onfocusout: function (element, event) {
-            //            $(element).valid();
-            //        },
-            //        errorPlacement: function (error, element) {
-            //            return true;
-            //        },
-            //        rules: {
-            //            email: {
-            //                required: true,
-            //                email: true
-            //            }
-            //        }
-            //    });
-            //});
-
             // Contact Form
             var $contactForm = $('#contact-form');
 
@@ -203,6 +181,23 @@ $(document).ready(function () {
         };
     });
 
+    /* --------------------------------------------------------
+    COUNT TO
+   ----------------------------------------------------------- */
+    $(function () {
+        "use strict";
+        $(".fact-number").appear(function () {
+            var dataperc = $(this).attr('data-perc');
+            $(this).each(function () {
+                $(this).find('.factor').delay(6000).countTo({
+                    from: 10,
+                    to: dataperc,
+                    speed: 3000,
+                    refreshInterval: 50,
+                });
+            });
+        });
+    });
 });
 
 

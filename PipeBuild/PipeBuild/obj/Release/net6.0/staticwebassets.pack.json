@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\PipeBuild.bundle.scp.css"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\bootstrap_custom.css",
       "PackagePath": "staticwebassets\\css\\bootstrap_custom.css"
     },
@@ -13,12 +17,88 @@
       "PackagePath": "staticwebassets\\css\\bootstrap_custom.css.map"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\icon\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\icon\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\icon\\et-line-font.css",
+      "PackagePath": "staticwebassets\\css\\icon\\et-line-font.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\icon\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\icon\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\icon\\linea-arrows-10.css",
+      "PackagePath": "staticwebassets\\css\\icon\\linea-arrows-10.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\icon\\linea-basic-10.css",
+      "PackagePath": "staticwebassets\\css\\icon\\linea-basic-10.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\icon\\linea-basic-elaboration-10.css",
+      "PackagePath": "staticwebassets\\css\\icon\\linea-basic-elaboration-10.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\icon\\linea-ecommerce-10.css",
+      "PackagePath": "staticwebassets\\css\\icon\\linea-ecommerce-10.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\icon\\linea-music-10.css",
+      "PackagePath": "staticwebassets\\css\\icon\\linea-music-10.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\icon\\linea-software-10.css",
+      "PackagePath": "staticwebassets\\css\\icon\\linea-software-10.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\icon\\linea-weather-10.css",
+      "PackagePath": "staticwebassets\\css\\icon\\linea-weather-10.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\owl.transitions.css",
+      "PackagePath": "staticwebassets\\css\\owl.transitions.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\projects-carousel.css",
+      "PackagePath": "staticwebassets\\css\\projects-carousel.css"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\gmap.js",
+      "PackagePath": "staticwebassets\\js\\gmap.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\interface.js",
+      "PackagePath": "staticwebassets\\js\\interface.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\js\\jquery.appear.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stellar.min.js"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\owl-carousel-project.js",
@@ -31,6 +111,10 @@
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -213,6 +297,26 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\fonts\\et-line\\.DS_Store",
+      "PackagePath": "staticwebassets\\lib\\fonts\\et-line\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\fonts\\et-line\\et-line.eot",
+      "PackagePath": "staticwebassets\\lib\\fonts\\et-line\\et-line.eot"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\fonts\\et-line\\et-line.svg",
+      "PackagePath": "staticwebassets\\lib\\fonts\\et-line\\et-line.svg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\fonts\\et-line\\et-line.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\et-line\\et-line.ttf"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\fonts\\et-line\\et-line.woff",
+      "PackagePath": "staticwebassets\\lib\\fonts\\et-line\\et-line.woff"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
@@ -251,6 +355,10 @@
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\jquery\\dist\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.magnific-popup.js"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
@@ -4413,6 +4521,26 @@
       "PackagePath": "staticwebassets\\lib\\slider\\slider-swipe.js"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\Team-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\Team-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\placeholders\\img-550x350-6.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\placeholders\\img-550x350-6.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\placeholders\\img-550x350-7.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\placeholders\\img-550x350-7.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\placeholders\\img-550x350-8.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\placeholders\\img-550x350-8.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\placeholders\\new-img-550x350-6.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\placeholders\\new-img-550x350-6.jpg"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Pic-1.jpg",
       "PackagePath": "staticwebassets\\src\\img\\slider\\Pic-1.jpg"
     },
@@ -4457,24 +4585,68 @@
       "PackagePath": "staticwebassets\\src\\img\\slider\\Team-01.jpg"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_1000.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_1000.png"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_114.png",
       "PackagePath": "staticwebassets\\src\\logos\\PB-01_114.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_150.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_150.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_200.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_200.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_250.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_250.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_300.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_300.png"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_32.png",
       "PackagePath": "staticwebassets\\src\\logos\\PB-01_32.png"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_350.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_350.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_400.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_400.png"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_48.png",
       "PackagePath": "staticwebassets\\src\\logos\\PB-01_48.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_500.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_500.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_600.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_600.png"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_64.png",
       "PackagePath": "staticwebassets\\src\\logos\\PB-01_64.png"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_700.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_700.png"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_72.png",
       "PackagePath": "staticwebassets\\src\\logos\\PB-01_72.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_800.png",
+      "PackagePath": "staticwebassets\\src\\logos\\PB-01_800.png"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-Logo_114.jpg",

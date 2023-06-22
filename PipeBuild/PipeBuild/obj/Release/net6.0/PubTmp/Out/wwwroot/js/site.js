@@ -84,8 +84,6 @@ for (const key in buttons) {
     }
 }
 
-
-
 var Pipebuild = {
     init: function () {
         this.Component.init();
@@ -95,28 +93,6 @@ var Pipebuild = {
             this.forms();
         },
         forms: function () {
-
-            /* Validate Form */
-            $('.js-ajax-form').each(function () {
-                $(this).validate({
-                    validClass: 'valid',
-                    errorClass: 'error',
-                    errorClass: 'error wobble-error',
-                    onfocusout: function (element, event) {
-                        $(element).valid();
-                    },
-                    errorPlacement: function (error, element) {
-                        return true;
-                    },
-                    rules: {
-                        email: {
-                            required: true,
-                            email: true
-                        }
-                    }
-                });
-            });
-
             // Contact Form
             var $contactForm = $('#contact-form');
 
@@ -192,14 +168,36 @@ $(document).ready(function () {
 
     Pipebuild.init();
 
-    $(window).scroll(function () {
-        var scroll = $(window).scrollTop();
+    /* --------------------------------------------
+     STICKY SETTING
+    -------------------------------------------- */
+    $(function () {
+        "use strict";
+        if ($(".navbar-sticky").length > 0) {
+            $(".navbar-sticky").sticky({ topSpacing: 0 });
+            $(".navbar-sticky").css('z-index', '100');
+            $(".navbar-sticky").addClass('bg-light');
+            $(".navbar-sticky").addClass("top-nav-collapse");
+        };
+    });
 
-        if (scroll >= 100) {
-            $('.navbar').addClass('sticky-top');
-        } else {
-            $('.navbar').removeClass('sticky');
-        }
+    /* --------------------------------------------------------
+    COUNT TO
+   ----------------------------------------------------------- */
+    $(function () {
+        "use strict";
+        $(".fact-number").appear(function () {
+            var dataperc = $(this).attr('data-perc');
+            $(this).each(function () {
+                $(this).find('.factor').delay(6000).countTo({
+                    from: 10,
+                    to: dataperc,
+                    speed: 3000,
+                    refreshInterval: 50,
+                });
+            });
+        });
     });
 });
+
 
