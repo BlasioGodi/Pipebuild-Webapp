@@ -878,6 +878,7 @@ label {
 .image-box {
     position: relative;
     overflow: hidden;
+    border-radius:12px;
 }
 
     .image-box .image {
