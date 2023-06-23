@@ -4521,10 +4521,6 @@
       "PackagePath": "staticwebassets\\lib\\slider\\slider-swipe.js"
     },
     {
-      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\Team-01.jpg",
-      "PackagePath": "staticwebassets\\src\\img\\Team-01.jpg"
-    },
-    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\placeholders\\img-550x350-6.jpg",
       "PackagePath": "staticwebassets\\src\\img\\placeholders\\img-550x350-6.jpg"
     },
@@ -4583,6 +4579,50 @@
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\slider\\Team-01.jpg",
       "PackagePath": "staticwebassets\\src\\img\\slider\\Team-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\values\\Team-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\values\\Team-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\values\\Team-02.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\values\\Team-02.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\values\\Team-02.png",
+      "PackagePath": "staticwebassets\\src\\img\\values\\Team-02.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\values\\focus-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\values\\focus-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\values\\focus-01.png",
+      "PackagePath": "staticwebassets\\src\\img\\values\\focus-01.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\values\\hardwork-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\values\\hardwork-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\values\\hardwork-01.png",
+      "PackagePath": "staticwebassets\\src\\img\\values\\hardwork-01.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\values\\innovation-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\values\\innovation-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\values\\innovation-01.png",
+      "PackagePath": "staticwebassets\\src\\img\\values\\innovation-01.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\values\\integrity-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\values\\integrity-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\values\\integrity-01.png",
+      "PackagePath": "staticwebassets\\src\\img\\values\\integrity-01.png"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\logos\\PB-01_1000.png",

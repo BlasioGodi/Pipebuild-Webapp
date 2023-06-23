@@ -11151,15 +11151,18 @@ textarea.form-control-lg {
 }
 
 .bg-greyed-out {
-  position: absolute;
-  top: 0;
-  left: 0;
   width: 100%;
   height: 100vh;
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
   z-index: 0;
+}
+
+.bg-grey-pos {
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 .bg-blue {

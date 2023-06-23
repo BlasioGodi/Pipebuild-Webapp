@@ -836,6 +836,7 @@ label {
 
 .fact-title {
     font-size: 1.1rem;
+    font-weight:600;
     display: block;
     font-family: var(--bs-title-font-family);
     letter-spacing: 1px;
@@ -878,6 +879,7 @@ label {
 .image-box {
     position: relative;
     overflow: hidden;
+    border-radius:12px;
 }
 
     .image-box .image {
@@ -973,6 +975,11 @@ label {
         -webkit-transform: scale(1.05, 1.05);
         transform: scale(1.05, 1.05);
     }
+
+.image-box-size {
+    min-width: 10rem;
+    min-height: 20rem;
+}
 
 /*-------------------------------------------------------------------------------
   5. Services
