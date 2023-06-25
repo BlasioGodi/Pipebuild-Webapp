@@ -4749,8 +4749,16 @@
       "PackagePath": "staticwebassets\\src\\project\\IMG-11.jpg"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-11_1.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-11_1.jpg"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-12.jpg",
       "PackagePath": "staticwebassets\\src\\project\\IMG-12.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-12_1.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\IMG-12_1.jpg"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-13.jpg",
@@ -4795,6 +4803,18 @@
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-22.jpg",
       "PackagePath": "staticwebassets\\src\\project\\IMG-22.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\LPG-01.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\LPG-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\LPG-13.webp",
+      "PackagePath": "staticwebassets\\src\\project\\LPG-13.webp"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\PD-1.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\PD-1.jpg"
     },
     {
       "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.PipeBuild.Microsoft.AspNetCore.StaticWebAssets.props",
