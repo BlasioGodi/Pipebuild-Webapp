@@ -16,17 +16,7 @@ $black: #000 !default;
 
 // fusv-disable
 // scss-docs-start gray-colors-map
-$grays: (
-  "100": $gray-100,
-  "200": $gray-200,
-  "300": $gray-300,
-  "400": $gray-400,
-  "500": $gray-500,
-  "600": $gray-600,
-  "700": $gray-700,
-  "800": $gray-800,
-  "900": $gray-900,
-) !default;
+$grays: ( "100": $gray-100, "200": $gray-200, "300": $gray-300, "400": $gray-400, "500": $gray-500, "600": $gray-600, "700": $gray-700, "800": $gray-800, "900": $gray-900, ) !default;
 // scss-docs-end gray-colors-map
 // fusv-enable
 
@@ -44,22 +34,7 @@ $cyan: #0dcaf0 !default;
 // scss-docs-end color-variables
 
 // scss-docs-start colors-map
-$colors: (
-  "blue": $blue,
-  "indigo": $indigo,
-  "purple": $purple,
-  "pink": $pink,
-  "red": $red,
-  "orange": $orange,
-  "yellow": $yellow,
-  "green": $green,
-  "teal": $teal,
-  "cyan": $cyan,
-  "black": $black,
-  "white": $white,
-  "gray": $gray-600,
-  "gray-dark": $gray-800,
-) !default;
+$colors: ( "blue": $blue, "indigo": $indigo, "purple": $purple, "pink": $pink, "red": $red, "orange": $orange, "yellow": $yellow, "green": $green, "teal": $teal, "cyan": $cyan, "black": $black, "white": $white, "gray": $gray-600, "gray-dark": $gray-800, ) !default;
 // scss-docs-end colors-map
 
 // The contrast ratio to reach against white, to determine if color changes from "light" to "dark". Acceptable values for WCAG 2.0 are 3, 4.5 and 7.
@@ -171,125 +146,25 @@ $cyan-700: shade-color($cyan, 40%) !default;
 $cyan-800: shade-color($cyan, 60%) !default;
 $cyan-900: shade-color($cyan, 80%) !default;
 
-$blues: (
-  "blue-100": $blue-100,
-  "blue-200": $blue-200,
-  "blue-300": $blue-300,
-  "blue-400": $blue-400,
-  "blue-500": $blue-500,
-  "blue-600": $blue-600,
-  "blue-700": $blue-700,
-  "blue-800": $blue-800,
-  "blue-900": $blue-900,
-) !default;
+$blues: ( "blue-100": $blue-100, "blue-200": $blue-200, "blue-300": $blue-300, "blue-400": $blue-400, "blue-500": $blue-500, "blue-600": $blue-600, "blue-700": $blue-700, "blue-800": $blue-800, "blue-900": $blue-900, ) !default;
 
-$indigos: (
-  "indigo-100": $indigo-100,
-  "indigo-200": $indigo-200,
-  "indigo-300": $indigo-300,
-  "indigo-400": $indigo-400,
-  "indigo-500": $indigo-500,
-  "indigo-600": $indigo-600,
-  "indigo-700": $indigo-700,
-  "indigo-800": $indigo-800,
-  "indigo-900": $indigo-900,
-) !default;
+$indigos: ( "indigo-100": $indigo-100, "indigo-200": $indigo-200, "indigo-300": $indigo-300, "indigo-400": $indigo-400, "indigo-500": $indigo-500, "indigo-600": $indigo-600, "indigo-700": $indigo-700, "indigo-800": $indigo-800, "indigo-900": $indigo-900, ) !default;
 
-$purples: (
-  "purple-100": $purple-100,
-  "purple-200": $purple-200,
-  "purple-300": $purple-300,
-  "purple-400": $purple-400,
-  "purple-500": $purple-500,
-  "purple-600": $purple-600,
-  "purple-700": $purple-700,
-  "purple-800": $purple-800,
-  "purple-900": $purple-900,
-) !default;
+$purples: ( "purple-100": $purple-100, "purple-200": $purple-200, "purple-300": $purple-300, "purple-400": $purple-400, "purple-500": $purple-500, "purple-600": $purple-600, "purple-700": $purple-700, "purple-800": $purple-800, "purple-900": $purple-900, ) !default;
 
-$pinks: (
-  "pink-100": $pink-100,
-  "pink-200": $pink-200,
-  "pink-300": $pink-300,
-  "pink-400": $pink-400,
-  "pink-500": $pink-500,
-  "pink-600": $pink-600,
-  "pink-700": $pink-700,
-  "pink-800": $pink-800,
-  "pink-900": $pink-900,
-) !default;
+$pinks: ( "pink-100": $pink-100, "pink-200": $pink-200, "pink-300": $pink-300, "pink-400": $pink-400, "pink-500": $pink-500, "pink-600": $pink-600, "pink-700": $pink-700, "pink-800": $pink-800, "pink-900": $pink-900, ) !default;
 
-$reds: (
-  "red-100": $red-100,
-  "red-200": $red-200,
-  "red-300": $red-300,
-  "red-400": $red-400,
-  "red-500": $red-500,
-  "red-600": $red-600,
-  "red-700": $red-700,
-  "red-800": $red-800,
-  "red-900": $red-900,
-) !default;
+$reds: ( "red-100": $red-100, "red-200": $red-200, "red-300": $red-300, "red-400": $red-400, "red-500": $red-500, "red-600": $red-600, "red-700": $red-700, "red-800": $red-800, "red-900": $red-900, ) !default;
 
-$oranges: (
-  "orange-100": $orange-100,
-  "orange-200": $orange-200,
-  "orange-300": $orange-300,
-  "orange-400": $orange-400,
-  "orange-500": $orange-500,
-  "orange-600": $orange-600,
-  "orange-700": $orange-700,
-  "orange-800": $orange-800,
-  "orange-900": $orange-900,
-) !default;
+$oranges: ( "orange-100": $orange-100, "orange-200": $orange-200, "orange-300": $orange-300, "orange-400": $orange-400, "orange-500": $orange-500, "orange-600": $orange-600, "orange-700": $orange-700, "orange-800": $orange-800, "orange-900": $orange-900, ) !default;
 
-$yellows: (
-  "yellow-100": $yellow-100,
-  "yellow-200": $yellow-200,
-  "yellow-300": $yellow-300,
-  "yellow-400": $yellow-400,
-  "yellow-500": $yellow-500,
-  "yellow-600": $yellow-600,
-  "yellow-700": $yellow-700,
-  "yellow-800": $yellow-800,
-  "yellow-900": $yellow-900,
-) !default;
+$yellows: ( "yellow-100": $yellow-100, "yellow-200": $yellow-200, "yellow-300": $yellow-300, "yellow-400": $yellow-400, "yellow-500": $yellow-500, "yellow-600": $yellow-600, "yellow-700": $yellow-700, "yellow-800": $yellow-800, "yellow-900": $yellow-900, ) !default;
 
-$greens: (
-  "green-100": $green-100,
-  "green-200": $green-200,
-  "green-300": $green-300,
-  "green-400": $green-400,
-  "green-500": $green-500,
-  "green-600": $green-600,
-  "green-700": $green-700,
-  "green-800": $green-800,
-  "green-900": $green-900,
-) !default;
+$greens: ( "green-100": $green-100, "green-200": $green-200, "green-300": $green-300, "green-400": $green-400, "green-500": $green-500, "green-600": $green-600, "green-700": $green-700, "green-800": $green-800, "green-900": $green-900, ) !default;
 
-$teals: (
-  "teal-100": $teal-100,
-  "teal-200": $teal-200,
-  "teal-300": $teal-300,
-  "teal-400": $teal-400,
-  "teal-500": $teal-500,
-  "teal-600": $teal-600,
-  "teal-700": $teal-700,
-  "teal-800": $teal-800,
-  "teal-900": $teal-900,
-) !default;
+$teals: ( "teal-100": $teal-100, "teal-200": $teal-200, "teal-300": $teal-300, "teal-400": $teal-400, "teal-500": $teal-500, "teal-600": $teal-600, "teal-700": $teal-700, "teal-800": $teal-800, "teal-900": $teal-900, ) !default;
 
-$cyans: (
-  "cyan-100": $cyan-100,
-  "cyan-200": $cyan-200,
-  "cyan-300": $cyan-300,
-  "cyan-400": $cyan-400,
-  "cyan-500": $cyan-500,
-  "cyan-600": $cyan-600,
-  "cyan-700": $cyan-700,
-  "cyan-800": $cyan-800,
-  "cyan-900": $cyan-900,
-) !default;
+$cyans: ( "cyan-100": $cyan-100, "cyan-200": $cyan-200, "cyan-300": $cyan-300, "cyan-400": $cyan-400, "cyan-500": $cyan-500, "cyan-600": $cyan-600, "cyan-700": $cyan-700, "cyan-800": $cyan-800, "cyan-900": $cyan-900, ) !default;
 // fusv-enable
 
 // scss-docs-start theme-color-variables
@@ -304,119 +179,21 @@ $dark: $gray-900 !default;
 // scss-docs-end theme-color-variables
 
 // scss-docs-start theme-colors-map
-$theme-colors: (
-  "primary": $primary,
-  "secondary": $secondary,
-  "success": $success,
-  "info": $info,
-  "warning": $warning,
-  "danger": $danger,
-  "light": $light,
-  "dark": $dark,
-) !default;
+$theme-colors: ( "primary": $primary, "secondary": $secondary, "success": $success, "info": $info, "warning": $warning, "danger": $danger, "light": $light, "dark": $dark, ) !default;
 
 // scss-docs-start position-map
-$position-values: (
-  0: 0,
-5:5%,
-  10: 10%,
-  20: 20%,
-  30: 30%,
-  40: 40%,
-  50: 50%,
-  60: 60%,
-  65: 65%,
-  70: 70%,
-  75: 75%,
-  80: 80%,
-  90: 90%,
-  100: 100%,
-) !default;
+$position-values: ( 0: 0, 5:5%, 10: 10%, 20: 20%, 30: 30%, 40: 40%, 50: 50%, 60: 60%, 65: 65%, 70: 70%, 75: 75%, 80: 80%, 90: 90%, 100: 100%, ) !default;
 
 $utilities: () !default;
-$utilities: map-merge(
-  (
-    "border-radius": (
-      property: border-radius,
-      class: br,
-      values: (
-        0: 0,
-        10: 10px,
-        20: 20px,
-        30: 30px,
-        40: 40px,
-        50: 50px,
-        60: 60px,
-        70: 70px,
-        80: 80px,
-        90: 90px,
-        100: 100px,
-        inherit: inherit,
-      ),
-    ),
-    "opacity": (
-      property: opacity,
-      values: (
-        0: 0,
-        10: 0.1,
-        20: 0.2,
-        25: 0.25,
-        30: 0.3,
-        45: 0.45,
-        50: 0.5,
-        60: 0.6,
-        70: 0.7,
-        75: 0.75,
-        80: 0.8,
-        90: 0.9,
-        100: 1,
-      ),
-    ),
-    // scss-docs-start utils-position
-    "position":
-      (
-        property: position,
-        values: static relative absolute fixed sticky,
-      ),
-    "top": (
-      property: top,
-      values: $position-values,
-    ),
-    "bottom": (
-      property: bottom,
-      values: $position-values,
-    ),
-    "start": (
-      property: left,
-      class: start,
-      values: $position-values,
-    ),
-    "end": (
-      property: right,
-      class: end,
-      values: $position-values,
-    ),
+$utilities: map-merge( ( "border-radius": ( property: border-radius, class: br, values: ( 0: 0, 10: 10px, 20: 20px, 30: 30px, 40: 40px, 50: 50px, 60: 60px, 70: 70px, 80: 80px, 90: 90px, 100: 100px, inherit: inherit, ), ), "opacity": ( property: opacity, values: ( 0: 0, 10: 0.1, 20: 0.2, 25: 0.25, 30: 0.3, 45: 0.45, 50: 0.5, 60: 0.6, 70: 0.7, 75: 0.75, 80: 0.8, 90: 0.9, 100: 1, ), ),
+// scss-docs-start utils-position
+"position": ( property: position, values: static relative absolute fixed sticky, ), "top": ( property: top, values: $position-values, ), "bottom": ( property: bottom, values: $position-values, ), "start": ( property: left, class: start, values: $position-values, ), "end": ( property: right, class: end, values: $position-values, ), "height": ( property: height, class: h, values: ( 10: 10%, 20: 20%, 30: 30%, 40: 40%, 50: 50%, 60: 60%, 70: 70%, 80: 80%, 90: 90%, 100: 100%, auto: auto, ), ), ), $utilities );
 
-    "height": (
-      property: height,
-      class: h,
-      values: (
-        10: 10%,
-        20: 20%,
-        30: 30%,
-        40: 40%,
-        50: 50%,
-        60: 60%,
-        70: 70%,
-        80: 80%,
-        90: 90%,
-        100: 100%,
-        auto: auto,
-      ),
-    ),
-  ),
-  $utilities
-);
+// scss-docs-start grid-breakpoints
+$grid-breakpoints: (xss:0, xs:375px, sm: 576px, md: 768px, lg: 992px, xl: 1200px, xxl: 1400px ) !default;
+
+// scss-docs-start container-max-widths
+$container-max-widths: (xs:375px,sm: 540px, md: 720px, lg: 960px, xl: 1140px, xxl: 1320px ) !default;
 
 @import "../node_modules/bootstrap/scss/functions";
 @import "../node_modules/bootstrap/scss/variables";
@@ -475,7 +252,7 @@ $card-primary-color: white;
     border-radius: 10px;
     color: white;
     font-family: var(--bs-body-font-family);
-    font-size:1.2rem;
+    font-size: 1.2rem;
 
     &:hover,
     &:focus,
@@ -495,71 +272,73 @@ $card-primary-color: white;
         background-color: darken($btn-primary-bg, 15%);
         border-color: darken($btn-primary-border, 15%);
         color: $btn-primary-color;
-    } 
+    }
 }
 
-.nav-link-brand{
+.nav-link-brand {
     @extend .nav-link;
-    font-size:1.3rem;
-    font-family:var(--bs-title-font-family);
+    font-size: 1.3rem;
+    font-family: var(--bs-title-font-family);
     font-weight: 800;
     color: white;
 }
 
 .card-no-bg {
-  @extend .card;
-  background-color: transparent;
-  border-radius: 0;
-  background-image: url("/src/img/slider/Plumb-01.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
+    @extend .card;
+    background-color: transparent;
+    border-radius: 0;
+    background-image: url("/src/img/slider/Plumb-01.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .card-img-no-rad,
 .card-img-top-no-rad {
-  @extend .card-img-top, .card-img;
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
+    @extend .card-img-top, .card-img;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
 }
 
 .card-shadow {
-  @extend.card;
-  transition: all 0.5s ease-in-out;
-  -moz-transition: all 0.5s ease-in-out;
-  -webkit-transition: all 0.5s ease-in-out;
-  -o-transition: all 0.5s ease-in-out;
+    @extend.card;
+    transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
 }
+
 .card-shadow:hover,
 .card-shadow:focus {
-  @extend .card;
-  background-color: $nav-primary-bg;
-  color: $card-primary-color;
-  box-shadow: 0 15px 34px $nav-primary-bg;
-  cursor: pointer;
+    @extend .card;
+    background-color: $nav-primary-bg;
+    color: $card-primary-color;
+    box-shadow: 0 15px 34px $nav-primary-bg;
+    cursor: pointer;
 }
 
 .bg-image {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url("/src/img/slider/Plumb-01.jpg");
-  background-position: center center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  z-index: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("/src/img/slider/Plumb-01.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 0;
 }
 
 .bg-image + * {
-  position: relative;
+    position: relative;
 }
 
 .bg-fixed {
-  background-attachment: fixed;
+    background-attachment: fixed;
 }
+
 .bg-greyed-out {
     width: 100%;
     height: 100vh;
@@ -568,112 +347,106 @@ $card-primary-color: white;
     background-repeat: no-repeat;
     z-index: 0;
 }
+
 .bg-grey-pos {
     position: absolute;
     top: 0;
     left: 0;
 }
+
 .bg-blue {
-  background: #141e30; /* fallback for old browsers */
-  background: -webkit-linear-gradient(
-    to right,
-    #243b55,
-    #141e30
-  ); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(
-    to right,
-    #243b55,
-    #141e30
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  color: #fff;
+    background: #141e30; /* fallback for old browsers */
+    background: -webkit-linear-gradient( to right, #243b55, #141e30 ); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient( to right, #243b55, #141e30 ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #fff;
 }
 
 .bg-red-custom {
-  background: $darken-primary;
-  color: #fff;
+    background: $darken-primary;
+    color: #fff;
 }
 
 .slider {
-  margin-bottom: 20px;
-  position: relative;
+    margin-bottom: 20px;
+    position: relative;
 }
 
 .slider .owl-item.active.center .slider-card {
-  transform: scale(1.15);
-  opacity: 1;
-  // background: #141e30; /* fallback for old browsers */
-  // background: -webkit-linear-gradient(
-  //   to right,
-  //   #243b55,
-  //   #141e30
-  // ); /* Chrome 10-25, Safari 5.1-6 */
-  // background: linear-gradient(
-  //   to right,
-  //   #243b55,
-  //   #141e30
-  // ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  // color: #fff;
+    transform: scale(1.15);
+    opacity: 1;
+    // background: #141e30; /* fallback for old browsers */
+    // background: -webkit-linear-gradient(
+    //   to right,
+    //   #243b55,
+    //   #141e30
+    // ); /* Chrome 10-25, Safari 5.1-6 */
+    // background: linear-gradient(
+    //   to right,
+    //   #243b55,
+    //   #141e30
+    // ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    // color: #fff;
 }
 
 .slider-card {
-  background-color: #fff;
-  margin: 50px 15px 90px 15px;
-  border-radius: 5px;
-  box-shadow: 0 15px 45px -20px rgba(206, 191, 191, 0.493);
-  transform: scale(0.9);
-  opacity: 0.5;
-  transition: all 0.5s ease-in-out;
-  -moz-transition: all 0.5s ease-in-out;
-  -webkit-transition: all 0.5s ease-in-out;
-  -o-transition: all 0.5s ease-in-out;
+    background-color: #fff;
+    margin: 50px 15px 90px 15px;
+    border-radius: 5px;
+    box-shadow: 0 15px 45px -20px rgba(206, 191, 191, 0.493);
+    transform: scale(0.9);
+    opacity: 0.5;
+    transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
 }
 
 .slider-card img {
-  border-radius: 5px 5px 0px 0px;
+    border-radius: 5px 5px 0px 0px;
 }
 
 .owl-nav .owl-next,
 .owl-nav .owl-prev {
-  transition: all 0.5s ease-in-out;
-  -moz-transition: all 0.5s ease-in-out;
-  -webkit-transition: all 0.5s ease-in-out;
-  -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
 }
 
 .owl-nav .owl-next {
-  position: absolute;
-  top: calc(50% - 25px);
-  right: 0;
-  opacity: 1;
-  font-size: 30px !important;
-  z-index: 1;
+    position: absolute;
+    top: calc(50% - 25px);
+    right: 0;
+    opacity: 1;
+    font-size: 30px !important;
+    z-index: 1;
 }
 
 .owl-nav .owl-prev {
-  position: absolute;
-  top: calc(50% - 25px);
-  left: 0;
-  opacity: 1;
-  font-size: 30px !important;
-  z-index: 1;
+    position: absolute;
+    top: calc(50% - 25px);
+    left: 0;
+    opacity: 1;
+    font-size: 30px !important;
+    z-index: 1;
 }
 
 .owl-dot {
-  padding: 100px;
-  font-size: 30px !important;
+    padding: 100px;
+    font-size: 30px !important;
 }
 
 @media (max-width: 575px) {
-  .slider .owl-item.active.center .slider-card {
-    transform: scale(1.1);
-    opacity: 1;
-  }
-  // .owl-nav .owl-prev i,
-  // .owl-nav .owl-next i {
-  //   color: white;
-  // }
+    .slider .owl-item.active.center .slider-card {
+        transform: scale(1.1);
+        opacity: 1;
+    }
+    // .owl-nav .owl-prev i,
+    // .owl-nav .owl-next i {
+    //   color: white;
+    // }
 }
 
-.text-cus-blue{
-    color:$nav-primary-bg;
+.text-cus-blue {
+    color: $nav-primary-bg;
 }
