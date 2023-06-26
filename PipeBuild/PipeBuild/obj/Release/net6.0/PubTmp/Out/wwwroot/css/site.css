@@ -1703,16 +1703,10 @@ footer .col-footer .title i {
   font-size: 8px;
 }
 
-@media (min-width: 385px) and (max-width: 575px){
+@media (min-width: 200px) and (max-width: 575px){
     footer .col-footer {
         line-height: 1.25rem;
         border-bottom: 1px solid rgba(146, 157, 170, 0.22);
-    }
-}
-
-@media (min-width: 375px) and (max-width: 575px) {
-    footer .col-footer {
-        border: none;
     }
 }
 
@@ -1739,7 +1733,7 @@ footer .col-footer .title i {
   #btn-close-4 {
     display: none;
   }
-}
+  }
 
 /* 11.2 Drop-down Settings */
 footer .btn-close {
