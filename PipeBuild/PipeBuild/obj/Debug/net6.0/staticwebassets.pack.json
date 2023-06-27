@@ -4521,6 +4521,14 @@
       "PackagePath": "staticwebassets\\lib\\slider\\slider-swipe.js"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\partners\\DandS-01.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\partners\\DandS-01.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\partners\\SAF-01.png",
+      "PackagePath": "staticwebassets\\src\\img\\partners\\SAF-01.png"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\img\\placeholders\\img-550x350-6.jpg",
       "PackagePath": "staticwebassets\\src\\img\\placeholders\\img-550x350-6.jpg"
     },
@@ -4713,6 +4721,14 @@
       "PackagePath": "staticwebassets\\src\\project\\FF-01.png"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\FF-02.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\FF-02.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\FF-02.png",
+      "PackagePath": "staticwebassets\\src\\project\\FF-02.png"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\IMG-01.jpg",
       "PackagePath": "staticwebassets\\src\\project\\IMG-01.jpg"
     },
@@ -4817,6 +4833,14 @@
       "PackagePath": "staticwebassets\\src\\project\\LPG-01.jpg"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\LPG-02.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\LPG-02.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\LPG-02.png",
+      "PackagePath": "staticwebassets\\src\\project\\LPG-02.png"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\LPG-13.webp",
       "PackagePath": "staticwebassets\\src\\project\\LPG-13.webp"
     },
@@ -4839,6 +4863,14 @@
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\WT-01.png",
       "PackagePath": "staticwebassets\\src\\project\\WT-01.png"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\WT-02.jpg",
+      "PackagePath": "staticwebassets\\src\\project\\WT-02.jpg"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\WT-02.png",
+      "PackagePath": "staticwebassets\\src\\project\\WT-02.png"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PipeBuild.Microsoft.AspNetCore.StaticWebAssets.props",
