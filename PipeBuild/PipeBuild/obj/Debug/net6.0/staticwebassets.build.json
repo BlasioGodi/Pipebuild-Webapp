@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oqzTze2X/vZPNV7XBDfvNXjCpX0HulZBXxdYmhegr2g=",
+  "Hash": "bXMdQEV213a7aF7YmEBCDgvHquB3M1SIPqNEQGVS6YY=",
   "Source": "PipeBuild",
   "BasePath": "_content/PipeBuild",
   "Mode": "Default",
@@ -20534,6 +20534,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\src\\project\\PD-01.jpg"
+    },
+    {
+      "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\PD-02.jpg",
+      "SourceId": "PipeBuild",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\",
+      "BasePath": "_content/PipeBuild",
+      "RelativePath": "src/project/PD-02.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\project\\PD-02.jpg"
     },
     {
       "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\src\\project\\PD-1.jpg",

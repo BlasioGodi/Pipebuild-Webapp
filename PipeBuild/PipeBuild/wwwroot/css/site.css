@@ -613,6 +613,10 @@ label {
     font-size: 22px;
 }
 
+.slider-4-bg {
+    background: url("/src/project/PD-01.jpg") no-repeat center center fixed;
+}
+
 /* 3.3 Content Box */
 .content-box {
     display: block;
@@ -945,6 +949,10 @@ label {
         -webkit-transform: translateX(10px);
         transform: translateX(10px);
         z-index: 3;
+    }
+
+    .image-box .hover.project-info{
+        padding:20px;
     }
 
         .image-box .hover .h5 {
@@ -1960,7 +1968,6 @@ footer .no-icon-list:last-child a {
     .main-contacts {
         padding: 34.2vmin 0 34vmin;
     }
-
 }
 
 /* 12.5 Min width 1200px */
