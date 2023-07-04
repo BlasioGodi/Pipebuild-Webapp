@@ -187,8 +187,9 @@ $(document).ready(function () {
    ----------------------------------------------------------- */
     $(function () {
         "use strict";
-        $('.grid').isotope({
-            itemSelector: '.grid-item',
+        var $portfolio = $('.masonary');
+        $portfolio.isotope({
+            itemSelector: '.portfolio-item',
             masonry: {
                 columnWidth: 100
             }
