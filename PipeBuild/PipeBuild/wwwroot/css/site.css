@@ -1009,6 +1009,12 @@ label {
     padding-bottom: 140px;
 }
 
+.portfolio-item {
+    float: left;
+    width: 100%;
+    padding: 45px 45px;
+}
+
 .portfolio-items-filter {
     float: left;
     width: 100%;
@@ -2125,6 +2131,9 @@ footer .no-icon-list:last-child a {
     .main-header {
         font-size: 45px;
     }
+    .portfolio-item {
+        padding: 20px 15px;
+    }
 }
 
 @media (min-width: 1000px) and (max-width: 1180px) {
@@ -2166,6 +2175,9 @@ footer .no-icon-list:last-child a {
         background: url("/src/logos/PB-01_400.png") no-repeat fixed;
         background-position: center 95px;
         min-height: 30vh;
+    }
+    .portfolio-item {
+        padding: 45px 30px;
     }
 }
 
