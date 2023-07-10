@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OWYT6BzjTVXJKMlaQqZJlcwWuILSrFM0A/1IlY42D6w=",
+  "Hash": "m5sqtP2q4s82H4T+AT7JOZvgRMdFMJX9i/Lqr+2tmBk=",
   "Source": "PipeBuild",
   "BasePath": "_content/PipeBuild",
   "Mode": "Default",
@@ -340,23 +340,6 @@
       "OriginalItemSpec": "wwwroot\\css\\projects-carousel.css"
     },
     {
-      "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\responsive.css",
-      "SourceId": "PipeBuild",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\",
-      "BasePath": "_content/PipeBuild",
-      "RelativePath": "css/responsive.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\responsive.css"
-    },
-    {
       "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\css\\site.css",
       "SourceId": "PipeBuild",
       "SourceType": "Discovered",
@@ -425,23 +408,6 @@
       "OriginalItemSpec": "wwwroot\\js\\interface.js"
     },
     {
-      "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\isotope.js",
-      "SourceId": "PipeBuild",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\",
-      "BasePath": "_content/PipeBuild",
-      "RelativePath": "js/isotope.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\isotope.js"
-    },
-    {
       "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\jquery.appear.js",
       "SourceId": "PipeBuild",
       "SourceType": "Discovered",
@@ -474,23 +440,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\jquery.countTo.js"
-    },
-    {
-      "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\jquery.min.js",
-      "SourceId": "PipeBuild",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\",
-      "BasePath": "_content/PipeBuild",
-      "RelativePath": "js/jquery.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
       "Identity": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\js\\jquery.stellar.min.js",
