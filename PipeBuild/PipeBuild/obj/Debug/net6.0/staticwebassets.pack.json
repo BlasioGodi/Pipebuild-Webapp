@@ -1397,6 +1397,42 @@
       "PackagePath": "staticwebassets\\lib\\node_modules\\font-awesome\\scss\\font-awesome.scss"
     },
     {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\get-size\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\get-size\\bower.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\get-size\\package.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\get-size\\package.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\get-size\\sandbox.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\get-size\\sandbox.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\get-size\\test\\iframe.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\get-size\\test\\iframe.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\get-size\\test\\iframe3.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\get-size\\test\\iframe3.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\get-size\\test\\iframe4.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\get-size\\test\\iframe4.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\get-size\\test\\index.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\get-size\\test\\index.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\get-size\\test\\tests.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\get-size\\test\\tests.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\isotope-layout\\package.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\isotope-layout\\package.json"
+    },
+    {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\AUTHORS.txt",
       "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\AUTHORS.txt"
     },
@@ -1895,6 +1931,58 @@
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\jquery\\src\\wrap.js",
       "PackagePath": "staticwebassets\\lib\\node_modules\\jquery\\src\\wrap.js"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\masonry-layout\\package.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\masonry-layout\\package.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\outlayer\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\outlayer\\bower.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\outlayer\\package.json",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\outlayer\\package.json"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\outlayer\\sandbox\\browserify\\browserify.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\outlayer\\sandbox\\browserify\\browserify.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\outlayer\\sandbox\\cells-by-row.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\outlayer\\sandbox\\cells-by-row.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\outlayer\\sandbox\\examples.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\outlayer\\sandbox\\examples.css"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\outlayer\\sandbox\\item-methods.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\outlayer\\sandbox\\item-methods.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\outlayer\\sandbox\\padding-percent.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\outlayer\\sandbox\\padding-percent.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\outlayer\\sandbox\\requirejs\\requirejs.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\outlayer\\sandbox\\requirejs\\requirejs.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\outlayer\\sandbox\\stagger.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\outlayer\\sandbox\\stagger.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\outlayer\\sandbox\\toggler.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\outlayer\\sandbox\\toggler.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\outlayer\\test\\index.html",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\outlayer\\test\\index.html"
+    },
+    {
+      "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\outlayer\\test\\tests.css",
+      "PackagePath": "staticwebassets\\lib\\node_modules\\outlayer\\test\\tests.css"
     },
     {
       "Id": "D:\\Git\\Websites\\Pipebuild-Webapp\\PipeBuild\\PipeBuild\\wwwroot\\lib\\node_modules\\owl.carousel\\.gitattributes",
