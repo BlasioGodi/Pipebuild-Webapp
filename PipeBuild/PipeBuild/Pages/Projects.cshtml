@@ -5,7 +5,7 @@
 }
 
 <section id="projects_one">
-    <div class="container-fluid background-bg bg-opacity-50 main-contacts">
+    <div class="container-fluid background-bg bg-opacity-50 main-contacts position-relative">
         <div class="bg-greyed-out bg-grey-pos bg-fixed">
             <div class="w-100 h-100 bg-dark bg-opacity-50"></div>
         </div>
@@ -16,17 +16,20 @@
 <section>
     <div class="button-group-wrap">
         <h3>Filter</h3>
-        <button data-filter="*">show all</button>
-        <button data-filter=".cms">cms</button>
-        <button data-filter=".markup">markup</button>
-        <button data-filter=".programming">programming</button>
-    </div><br />
-    <h3>Sort</h3>
-    <div id="sorts" class="button-group sort-by-button-group">
-        <button data-sort-by="original-order">original order</button>
-        <button data-sort-by="number">number</button>
-        <button data-sort-by="name">name</button>
-        <button data-sort-by="category">category</button>
+        <div id="filters" class="button-group filter-button-group">
+            <button class="btn btn-primary" data-filter="*">show all</button>
+            <button class="btn btn-primary" data-filter=".cms">cms</button>
+            <button class="btn btn-primary" data-filter=".markup">markup</button>
+            <button class="btn btn-primary" data-filter=".programming">programming</button>
+        </div>
+        <br />
+        <h3>Sort</h3>
+        <div id="sorts" class="button-group sort-by-button-group">
+            <button class="btn btn-primary" data-sort-by="original-order">original order</button>
+            <button class="btn btn-primary" data-sort-by="number">number</button>
+            <button class="btn btn-primary" data-sort-by="name">name</button>
+            <button class="btn btn-primary" data-sort-by="category">category</button>
+        </div>
     </div>
     <div class="box-listing">
         <div class="box-item programming" data-category="programming">

@@ -1004,7 +1004,15 @@ label {
 -------------------------------------------------------------------------------*/
 
 .button-group-wrap{
+    margin: auto;
+    padding: 15px;
+}
 
+.button-group-wrap h3{
+    display: inline-block;
+    color: black;
+    font-weight: 600;
+    margin: 0 5px 5px;
 }
 
 .button-group {
