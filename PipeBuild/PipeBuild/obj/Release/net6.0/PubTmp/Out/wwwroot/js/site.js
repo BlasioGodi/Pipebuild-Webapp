@@ -180,49 +180,6 @@ $(document).ready(function () {
             $(".navbar-sticky").addClass("top-nav-collapse");
         };
     });
-
-
-    /* --------------------------------------------------------
-    ISOTOPE
-   ----------------------------------------------------------- */
-    $(function () {
-        var $portfolio = $('.masonary');
-        $portfolio.isotope({
-            masonry: {
-            }
-        });
-
-
-        var $optionSets = $('.option-set'),
-            $optionLinks = $optionSets.find('a');
-
-        $optionLinks.click(function () {
-            var $this = $(this);
-            // don't proceed if already selected
-            if ($this.hasClass('selected')) {
-                return false;
-            }
-            var $optionSet = $this.parents('.option-set');
-            $optionSet.find('.selected').removeClass('selected');
-            $this.addClass('selected');
-            var options = {},
-                key = $optionSet.attr('data-option-key'),
-                value = $this.attr('data-option-value');
-            // parse 'false' as false boolean
-            value = value === 'false' ? false : value;
-            options[key] = value;
-            if (key === 'layoutMode' && typeof changeLayoutMode === 'function') {
-                // changes in layout modes need extra logic
-                changeLayoutMode($this, options)
-            } else {
-                // otherwise, apply new options
-                $portfolio.isotope(options);
-            }
-
-            return false;
-        });
-
-    });
     
     /* --------------------------------------------------------
     COUNT TO
@@ -239,6 +196,50 @@ $(document).ready(function () {
                     refreshInterval: 50,
                 });
             });
+        });
+    });
+
+    /* --------------------------------------------------------
+ ISOTOPE LAYOUT
+----------------------------------------------------------- */
+    $(function () {
+        var $listing = $(".box-listing").isotope({
+            itemSelector: '.box-item',
+            layoutMode: 'fitRows',
+            getSortData: {
+                number: '.item-id parseInt',
+                name: '.item-name',
+                category: '[data-category]'
+            }
+        });
+
+        $("#filters").on("click", "button", function () {
+            var filterValue = $(this).attr('data-filter');
+            $listing.isotope({ filter: filterValue });
+        });
+
+        $("#sorts").on("click", "button", function () {
+            var sortValue = $(this).attr('data-sort-by');
+            $listing.isotope({ sortBy: sortValue });
+        });
+    });
+
+    $(function () {
+        var $listing = $(".portfolio-grid").isotope({
+            masonry: {
+                },
+            getSortData: {
+                number: '.item-id parseInt',
+                name: '.item-name',
+                category: '[data-category]'
+            }
+        });
+
+        $("#project-filter").on("click", "a", function () {
+            event.preventDefault();
+
+            var filterValue = $(this).attr('data-filter');
+            $listing.isotope({ filter: filterValue });
         });
     });
 });
