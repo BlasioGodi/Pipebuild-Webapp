@@ -1015,27 +1015,95 @@ label {
     margin: 0 5px 5px;
 }
 
-.button-group {
-
+.button-group-wrap .button-group{
+   display:inline-block;
 }
 
-.sort-by-button-group{
+.filter-button-group{
+    margin-bottom: 20px; 
 }
 
-.box-listing {
-
+.button-group button{
+    min-width: 50px;
+    background: #eee;
+    color:#222;
+    font-size: 16px;
+    padding: 5px 10px;
+    margin: -1.75px;
+    border: 1px solid #eee;
+    cursor: pointer;
+    transition: all 0.1s ease-out;
 }
 
-.item-name {
+    .button-group button:hover {
+        background: #7ed2ff;
+        border: 1px solid #7ed2ff;
+    }
 
+    .button-group button:first-child{
+        border-top-left-radius:5px;
+        border-bottom-left-radius:5px; 
+    }
+
+.button-group button:last-child {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 
-.item-id {
+.box-item{
+    width:calc(33.3% - 30px);
+    height: 100px;
+    background-color: #858585;
+    border-radius:5px;
+    box-shadow:0 0 5px #fff;
+    margin:15px;
+    padding: 40px 0;
 }
 
-.item-category {
+.box-item h3{
+    font-size: 22px;
+    font-weight: 600;
+    text-align: center;
 }
 
+.item-category{
+    position:absolute;
+    top:8px;
+    right:8px;
+    font-size:14px;
+    font-weight:400;
+    padding:5px 15px;
+    border-radius: 15px;
+}
+
+.box-item.programming .item-category{
+    background-color:aquamarine;
+}
+
+.box-item.cms .item-category {
+    background-color: #01a6ff;
+    color:#fff;
+}
+
+.box-item.markup .item-category {
+    background-color: #f08080;
+    color:#fff;
+}
+
+.item-id{
+    position:absolute;
+    left: 0;
+    bottom: 0;
+    width: 50px;
+    height: 35px;
+    background: #7b68ee;
+    color: #fff;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    box-shadow: 0 0 5px #7b68ee;
+    margin:0;
+}
 /*-------------------------------------------------------------------------------
   7. Team
 -------------------------------------------------------------------------------*/

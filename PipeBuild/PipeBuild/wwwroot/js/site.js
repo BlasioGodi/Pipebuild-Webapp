@@ -198,6 +198,31 @@ $(document).ready(function () {
             });
         });
     });
+
+    /* --------------------------------------------------------
+ ISOTOPE LAYOUT
+----------------------------------------------------------- */
+    $(function () {
+        var $listing = $(".box-listing").isotope({
+            itemSelector: '.box-item',
+            layoutMode: 'fitRows',
+            getSortData: {
+                number: '.item-id parseInt',
+                name: '.item-name',
+                category: '[data-category]'
+            }
+        });
+
+        $("#filters").on("click", "button", function () {
+            var filterValue = $(this).attr('data-filter');
+            $listing.isotope({ filter:filterValue });
+        });
+
+        $("#sorts").on("click", "button", function () {
+            var sortValue = $(this).attr('data-sort-by');
+            $listing.isotope({ sortBy: sortValue });
+        });
+    })
 });
 
 
