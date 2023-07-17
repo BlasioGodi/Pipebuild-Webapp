@@ -1049,7 +1049,7 @@ label {
     }
 
         .load-more-items a:hover {
-            color: #ffa800;
+            color: rgb(73, 132, 184);
             text-decoration: none;
         }
 
@@ -1095,8 +1095,12 @@ label {
 
         .options ul li {
             display: inline-block;
-            padding: 0 20px;
+            border-radius: 10px;
+            padding: 10px 20px;
             list-style: none;
+            -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+            -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+            transition: background .5s ease-in-out,padding .5s ease-in-out;
         }
 
             .options ul li a {
@@ -1107,17 +1111,33 @@ label {
                 cursor: pointer;
             }
 
-                .options ul li a.selected {
-                    color: #ffa800;
-                }
+            .options ul li:hover {
+                border-radius: 10px;
+                color: white;
+                background-color: rgb(73, 132, 184);
+            }
 
-                .options ul li :last-child:hover {
-                    color: #ffa800;
-                }
+            .options ul li:focus {
+                border-radius: 10px;
+                color: white;
+                background-color: rgb(73, 132, 184);
+            }
 
-.mgbtm-35 {
-    margin-bottom: 35px;
+.item-info {
+    float: left;
+    padding-top: 20px;
 }
+
+    .item-info h3 {
+        font-size: 21px;
+        font-weight: 700;
+        margin-bottom: 8px;
+    }
+
+    .item-info span {
+        font-size: 14px;
+        font-weight: 400;
+    }
 
 /*-------------------------------------------------------------------------------
   7. Team
