@@ -13,69 +13,72 @@
     </div>
 </section>
 
-<section>
-    <div class="button-group-wrap">
-        <h3>Filter</h3>
-        <div id="filters" class="button-group filter-button-group">
-            <button data-filter="*">show all</button>
-            <button data-filter=".cms">cms</button>
-            <button data-filter=".markup">markup</button>
-            <button data-filter=".programming">programming</button>
-        </div>
-        <br />
-        <h3>Sort</h3>
-        <div id="sorts" class="button-group sort-by-button-group">
-            <button data-sort-by="original-order">original order</button>
-            <button data-sort-by="number">number</button>
-            <button data-sort-by="name">name</button>
-            <button data-sort-by="category">category</button>
+<section id="projects_three">
+    <div class="container section-projects">
+        <section class="options mgbtm-35">
+            <div class="option-isotop">
+                <ul id="project-filter" class="option-set">
+                    <li><a data-filter="*" class="selected" >All</a></li>
+                    <li><a data-filter=".residential">Residentials</a></li>
+                    <li><a data-filter=".commercial">Commercials</a></li>
+                    <li><a data-filter=".industrial">Industrial</a></li>
+                    <li><a data-filter=".mixeduse">Mixed-Use</a></li>
+                    <li><a data-filter=".hotel">Hotels</a></li>
+                </ul>
+            </div>
+        </section>
+        <div class="row portfolio-grid text-style">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 grid-item residential" data-category="residential">
+                <div class="portfolio-item">
+                    <div class="pt-img"><img src="http://via.placeholder.com/370x520" alt=""></div>
+                </div>
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-6 col-xs-12 grid-item industrial" data-category="industrial">
+                <div class="portfolio-item">
+                    <div class="pt-img"><img src="http://via.placeholder.com/770x520" alt=""></div>
+                </div>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 grid-item mixeduse" data-category="mixeduse">
+                <div class="portfolio-item">
+                    <div class="pt-img"><img src="http://via.placeholder.com/1170x520" alt=""></div>
+                </div>
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-6 col-xs-12 grid-item hotel" data-category="hotel">
+                <div class="portfolio-item">
+                    <div class="pt-img"><img src="http://via.placeholder.com/770x520" alt=""></div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 grid-item hotel" data-category="hotel">
+                <div class="portfolio-item">
+                    <div class="pt-img"><img src="http://via.placeholder.com/370x520" alt=""></div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 grid-item mixeduse" data-category="mixeduse">
+                <div class="portfolio-item">
+                    <div class="pt-img"><img src="http://via.placeholder.com/370x520" alt=""></div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 grid-item industrial" data-category="industrial">
+                <div class="portfolio-item">
+                    <div class="pt-img"><img src="http://via.placeholder.com/370x520" alt=""></div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 grid-item commercial" data-category="commercial">
+                <div class="portfolio-item">
+                    <div class="pt-img"><img src="http://via.placeholder.com/370x520" alt=""></div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 grid-item residential" data-category="residential">
+                <div class="portfolio-item">
+                    <div class="pt-img">
+                        <img src="http://via.placeholder.com/370x520" alt="">
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-    <div class="box-listing">
-        <div class="box-item programming" data-category="programming">
-            <h3 class="item-name">Javascript</h3>
-            <h3 class="item-id">8</h3>
-            <h3 class="item-category">Programming</h3>
-        </div>
-        <div class="box-item programming" data-category="programming">
-            <h3 class="item-name">Python</h3>
-            <h3 class="item-id">9</h3>
-            <h3 class="item-category">Programming</h3>
-        </div>
-        <div class="box-item cms" data-category="cms">
-            <h3 class="item-name">Sql</h3>
-            <h3 class="item-id">6</h3>
-            <h3 class="item-category">cms</h3>
-        </div>
-        <div class="box-item programming" data-category="programming">
-            <h3 class="item-name">Java</h3>
-            <h3 class="item-id">4</h3>
-            <h3 class="item-category">Programming</h3>
-        </div>
-        <div class="box-item markup" data-category="markup">
-            <h3 class="item-name">Wordpress</h3>
-            <h3 class="item-id">5</h3>
-            <h3 class="item-category">markup</h3>
-        </div>
-        <div class="box-item cms" data-category="cms">
-            <h3 class="item-name">Hubspot</h3>
-            <h3 class="item-id">1</h3>
-            <h3 class="item-category">cms</h3>
-        </div>
-        <div class="box-item programming" data-category="programming">
-            <h3 class="item-name">Facebook</h3>
-            <h3 class="item-id">2</h3>
-            <h3 class="item-category">Programming</h3>
-        </div>
-        <div class="box-item markup" data-category="markup">
-            <h3 class="item-name">Visual Studio</h3>
-            <h3 class="item-id">7</h3>
-            <h3 class="item-category">markup</h3>
-        </div>
-        <div class="box-item cms" data-category="cms">
-            <h3 class="item-name">Eclipse</h3>
-            <h3 class="item-id">3</h3>
-            <h3 class="item-category">cms</h3>
-        </div>
-    </div>
+    <div class="load-more-items">
+        <a href="#" title="">Load more</a>
+    </div><!--load-more-items end-->
+
 </section>

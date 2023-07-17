@@ -1003,107 +1003,122 @@ label {
   6. Projects
 -------------------------------------------------------------------------------*/
 
-.button-group-wrap{
-    margin: auto;
-    padding: 15px;
+.portfolio-item {
+    float: left;
+    width: 100%;
+    padding: 45px 45px;
 }
 
-.button-group-wrap h3{
-    display: inline-block;
-    color: black;
-    font-weight: 600;
-    margin: 0 5px 5px;
+.pt-img {
+    float: left;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
 }
 
-.button-group-wrap .button-group{
-   display:inline-block;
-}
-
-.filter-button-group{
-    margin-bottom: 20px; 
-}
-
-.button-group button{
-    min-width: 50px;
-    background: #eee;
-    color:#222;
-    font-size: 16px;
-    padding: 5px 10px;
-    margin: -1.75px;
-    border: 1px solid #eee;
-    cursor: pointer;
-    transition: all 0.1s ease-out;
-}
-
-    .button-group button:hover {
-        background: #7ed2ff;
-        border: 1px solid #7ed2ff;
+    .pt-img:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(16, 33, 46, 0.4);
     }
 
-    .button-group button:first-child{
-        border-top-left-radius:5px;
-        border-bottom-left-radius:5px; 
-    }
-
-.button-group button:last-child {
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
+.portfolio-item:hover .pt-img:before {
+    height: 0;
 }
 
-.box-item{
-    width:calc(33.3% - 30px);
-    height: 100px;
-    background-color: #858585;
-    border-radius:5px;
-    box-shadow:0 0 5px #fff;
-    margin:15px;
-    padding: 40px 0;
+.pt-img img {
+    width: 100%;
 }
 
-.box-item h3{
-    font-size: 22px;
-    font-weight: 600;
+.load-more-items {
+    float: left;
+    width: 100%;
     text-align: center;
+    padding-top: 80px;
 }
 
-.item-category{
-    position:absolute;
-    top:8px;
-    right:8px;
-    font-size:14px;
-    font-weight:400;
-    padding:5px 15px;
-    border-radius: 15px;
+    .load-more-items a {
+        font-size: 16px;
+        font-weight: 700;
+        text-transform: uppercase;
+        text-decoration: underline;
+    }
+
+        .load-more-items a:hover {
+            color: #ffa800;
+            text-decoration: none;
+        }
+
+.portfolio-grid.text-style .portfolio-item {
+    padding: 15px;
+    position: relative;
 }
 
-.box-item.programming .item-category{
-    background-color:aquamarine;
-}
-
-.box-item.cms .item-category {
-    background-color: #01a6ff;
-    color:#fff;
-}
-
-.box-item.markup .item-category {
-    background-color: #f08080;
-    color:#fff;
-}
-
-.item-id{
-    position:absolute;
+.portfolio-grid.text-style .item-info {
+    position: absolute;
+    bottom: 40px;
     left: 0;
-    bottom: 0;
-    width: 50px;
-    height: 35px;
-    background: #7b68ee;
-    color: #fff;
-    padding: 10px;
-    border-bottom-left-radius: 5px;
-    border-top-right-radius: 5px;
-    box-shadow: 0 0 5px #7b68ee;
-    margin:0;
+    padding: 0 45px 0 45px;
 }
+
+    .portfolio-grid.text-style .item-info span {
+        color: #fff;
+        margin-bottom: 20px;
+        float: left;
+        width: 100%;
+    }
+
+.portfolio-grid .col-lg-4 {
+    padding: 0;
+}
+
+.portfolio-grid.text-style .col-lg-12,
+.portfolio-grid.text-style .col-lg-8 {
+    padding: 0;
+}
+
+.options {
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+    .options ul {
+        margin: 0;
+        padding: 0;
+    }
+
+        .options ul li {
+            display: inline-block;
+            padding: 0 20px;
+            list-style: none;
+        }
+
+            .options ul li a {
+                font-size: 16px;
+                font-weight: 700;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                cursor: pointer;
+            }
+
+                .options ul li a.selected {
+                    color: #ffa800;
+                }
+
+                .options ul li :last-child:hover {
+                    color: #ffa800;
+                }
+
+.mgbtm-35 {
+    margin-bottom: 35px;
+}
+
 /*-------------------------------------------------------------------------------
   7. Team
 -------------------------------------------------------------------------------*/

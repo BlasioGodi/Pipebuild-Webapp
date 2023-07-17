@@ -215,14 +215,33 @@ $(document).ready(function () {
 
         $("#filters").on("click", "button", function () {
             var filterValue = $(this).attr('data-filter');
-            $listing.isotope({ filter:filterValue });
+            $listing.isotope({ filter: filterValue });
         });
 
         $("#sorts").on("click", "button", function () {
             var sortValue = $(this).attr('data-sort-by');
             $listing.isotope({ sortBy: sortValue });
         });
-    })
+    });
+
+    $(function () {
+        var $listing = $(".portfolio-grid").isotope({
+            masonry: {
+                },
+            getSortData: {
+                number: '.item-id parseInt',
+                name: '.item-name',
+                category: '[data-category]'
+            }
+        });
+
+        $("#project-filter").on("click", "a", function () {
+            event.preventDefault();
+
+            var filterValue = $(this).attr('data-filter');
+            $listing.isotope({ filter: filterValue });
+        });
+    });
 });
 
 
