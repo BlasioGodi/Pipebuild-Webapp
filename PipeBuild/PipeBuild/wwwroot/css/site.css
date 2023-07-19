@@ -1034,7 +1034,7 @@ label {
 .portfolio-item:hover .pt-img:before {
     height: 0;
 }
-.portfolio-item .item-info h3 > a {
+.portfolio-item .item-info h3 {
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
@@ -1042,8 +1042,8 @@ label {
     transition: all 0.4s ease-in-out;
 }
 
-.portfolio-item:hover .item-info h3 > a {
-    color: rgb(73, 132, 184);
+.portfolio-item:hover .item-info h3 {
+    color: black;
 }
 
 .pt-img img {
@@ -1148,6 +1148,7 @@ label {
         font-size: 1.3rem;
         font-weight: 700;
         margin-bottom: 8px;
+        color: white;
     }
 
     .item-info span {
