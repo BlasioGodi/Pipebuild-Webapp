@@ -1034,9 +1034,16 @@ label {
 .portfolio-item:hover .pt-img:before {
     height: 0;
 }
+.portfolio-item .item-info h3 {
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+}
 
-.portfolio-item:hover .item-info h3 > a {
-    color: rgb(73, 132, 184);
+.portfolio-item:hover .item-info h3 {
+    color: black;
 }
 
 .pt-img img {
@@ -1141,6 +1148,7 @@ label {
         font-size: 1.3rem;
         font-weight: 700;
         margin-bottom: 8px;
+        color: white;
     }
 
     .item-info span {
@@ -1963,6 +1971,10 @@ footer .no-icon-list:last-child a {
     .main-header {
         line-height: 40px;
     }
+
+    .options ul li {
+        padding: 2px 20px;   
+    }
 }
 
 /* 12.1 Max height 480px */
@@ -1971,6 +1983,9 @@ footer .no-icon-list:last-child a {
         background: url("/src/logos/PB-01_300.png") no-repeat fixed;
         background-position: center 95px;
         min-height: 50vh;
+    }
+    .options ul li {
+        padding: 2px 20px;
     }
 }
 
@@ -2002,6 +2017,10 @@ footer .no-icon-list:last-child a {
 
     .main-header {
         font-size: 30px;
+    }
+
+    .options ul li {
+        padding: 2px 20px;
     }
 }
 
